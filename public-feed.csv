@@ -1,1 +1,34 @@
-PLACEHOLDER
+Post ID,Publication Date,Language,Topic,Title,Full Approved Post Text,LinkedIn URL,Activity ID,Embed Status,Last Updated,Source Order
+G22,2026-09-20,DE,KI-gestützter Prototyp einer digitalen Lösung,Lange Lernsitzungen sollten nicht wiederholt durch vermeidbare Wiedergabeunterbrechungen gestört werden.,"DEUTSCH
+
+Lange Lernsitzungen sollten nicht wiederholt durch vermeidbare Wiedergabeunterbrechungen gestört werden.
+
+Beim Anhören oder Lernen mit langen YouTube-Videos stellte ich fest, dass die Wiedergabe anhalten und eine manuelle Bestätigung zum Fortsetzen verlangen konnte.
+
+Wenn ich arbeitete, trainierte, kochte oder mich nicht in der Nähe meines Mobiltelefons befand, unterbrach die Rückkehr zum Bildschirm sowohl meine Tätigkeit als auch den Lernprozess.
+
+Diese praktische Schwierigkeit veranlasste mich, einen freihändigen Wiedergabe-Kontinuitätsassistenten als persönlichen, KI-gestützten Prototyp zu konzipieren und zu entwickeln.
+
+Das Projekt begann mit klaren Nutzeranforderungen:
+• Vermeidbare Unterbrechungen bei langen Seh- oder Hörsitzungen reduzieren
+• Wiederholte manuelle Interaktionen mit dem Mobilgerät minimieren
+• Wahlfreiheit und Kontrolle der Nutzer erhalten
+• Barrierefreiheit, Datenschutz und Plattformanforderungen berücksichtigen
+• Unterschiedliche Unterbrechungsszenarien und Einschränkungen testen
+
+Aus der Perspektive eines Senior Business Analyst bestand die wesentliche Arbeit nicht nur darin, eine technische Antwort zu entwickeln.
+
+Erforderlich waren:
+• Das tatsächliche Nutzerproblem verstehen
+• Das Problem in funktionale Anforderungen übersetzen
+• Risiken und verantwortungsvolle Kontrollen identifizieren
+• Einen praktischen Prototyp entwerfen und testen
+• Den Nutzen bewerten, ohne die Fähigkeiten zu übertreiben
+
+Dies ist ein praktischer Lernprototyp. Er wird weder als kommerziell eingesetztes Produkt noch als Methode zur Umgehung von Schutzmechanismen einer Plattform dargestellt.
+
+Das Projekt zeigt, wie Business Analysis, Systemanalyse, Projektmanagement und verantwortungsvolle KI-gestützte Entwicklung ein alltägliches Problem in ein strukturiertes Lösungskonzept überführen können.
+
+Welche wiederkehrende digitale Unterbrechung sollte Technologie Ihrer Meinung nach verantwortungsvoll lösen?
+
+#BusinessAnalysis #DigitaleTransformation #KIEinführung #Nutzererfahrung #Produktentwicklung",https://www.linkedin.com/feed/update/urn:li:share:7507423155351769088,7507423155351769088,Not checked,2026-09-20,88
