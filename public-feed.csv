@@ -1,1 +1,100 @@
-PLACEHOLDER
+Post ID,Publication Date,Language,Topic,Title,Full Approved Post Text,LinkedIn URL,Activity ID,Embed Status,Last Updated,Source Order
+G22,2026-09-20,DE,KI-gestützter Prototyp einer digitalen Lösung,Lange Lernsitzungen sollten nicht wiederholt durch vermeidbare Wiedergabeunterbrechungen gestört werden.,"DEUTSCH
+
+Lange Lernsitzungen sollten nicht wiederholt durch vermeidbare Wiedergabeunterbrechungen gestört werden.
+
+Beim Anhören oder Lernen mit langen YouTube-Videos stellte ich fest, dass die Wiedergabe anhalten und eine manuelle Bestätigung zum Fortsetzen verlangen konnte.
+
+Wenn ich arbeitete, trainierte, kochte oder mich nicht in der Nähe meines Mobiltelefons befand, unterbrach die Rückkehr zum Bildschirm sowohl meine Tätigkeit als auch den Lernprozess.
+
+Diese praktische Schwierigkeit veranlasste mich, einen freihändigen Wiedergabe-Kontinuitätsassistenten als persönlichen, KI-gestützten Prototyp zu konzipieren und zu entwickeln.
+
+Das Projekt begann mit klaren Nutzeranforderungen:
+• Vermeidbare Unterbrechungen bei langen Seh- oder Hörsitzungen reduzieren
+• Wiederholte manuelle Interaktionen mit dem Mobilgerät minimieren
+• Wahlfreiheit und Kontrolle der Nutzer erhalten
+• Barrierefreiheit, Datenschutz und Plattformanforderungen berücksichtigen
+• Unterschiedliche Unterbrechungsszenarien und Einschränkungen testen
+
+Aus der Perspektive eines Senior Business Analyst bestand die wesentliche Arbeit nicht nur darin, eine technische Antwort zu entwickeln.
+
+Erforderlich waren:
+• Das tatsächliche Nutzerproblem verstehen
+• Das Problem in funktionale Anforderungen übersetzen
+• Risiken und verantwortungsvolle Kontrollen identifizieren
+• Einen praktischen Prototyp entwerfen und testen
+• Den Nutzen bewerten, ohne die Fähigkeiten zu übertreiben
+
+Dies ist ein praktischer Lernprototyp. Er wird weder als kommerziell eingesetztes Produkt noch als Methode zur Umgehung von Schutzmechanismen einer Plattform dargestellt.
+
+Das Projekt zeigt, wie Business Analysis, Systemanalyse, Projektmanagement und verantwortungsvolle KI-gestützte Entwicklung ein alltägliches Problem in ein strukturiertes Lösungskonzept überführen können.
+
+Welche wiederkehrende digitale Unterbrechung sollte Technologie Ihrer Meinung nach verantwortungsvoll lösen?
+
+#BusinessAnalysis #DigitaleTransformation #KIEinführung #Nutzererfahrung #Produktentwicklung",https://www.linkedin.com/feed/update/urn:li:share:7507423155351769088,7507423155351769088,Not checked,2026-09-20,88
+F20,2026-09-20,FR,Prototype de solution numérique assistée par l'IA,Les longues sessions d'apprentissage ne devraient pas être interrompues à répétition par des arrêts de lecture évitables.,"FRANÇAIS
+
+Les longues sessions d'apprentissage ne devraient pas être interrompues à répétition par des arrêts de lecture évitables.
+
+En écoutant ou en suivant de longues vidéos sur YouTube, j'ai constaté que la lecture pouvait s'arrêter et demander une confirmation manuelle pour continuer.
+
+Lorsque je travaillais, faisais de l'exercice, cuisinais ou me trouvais loin de mon mobile, devoir revenir à l'écran interrompait à la fois mon activité et mon apprentissage.
+
+Cette difficulté concrète m'a conduit à concevoir et développer un assistant de continuité de lecture mains libres sous la forme d'un prototype personnel assisté par l'IA.
+
+Le projet a commencé par des exigences utilisateurs claires:
+• Réduire les interruptions évitables pendant les longues sessions de visionnage ou d'écoute
+• Limiter les interactions manuelles répétées avec l'appareil mobile
+• Préserver le choix et le contrôle de l'utilisateur
+• Prendre en compte l'accessibilité, la confidentialité et les exigences de la plateforme
+• Tester différents scénarios d'interruption et leurs limites
+
+Du point de vue d'un Senior Business Analyst, l'essentiel ne consistait pas simplement à développer une réponse technique.
+
+Il fallait:
+• Comprendre le véritable problème utilisateur
+• Le traduire en exigences fonctionnelles
+• Identifier les risques et les contrôles responsables
+• Concevoir et tester un prototype pratique
+• Évaluer son utilité sans exagérer ses capacités
+
+Il s'agit d'un prototype pratique d'apprentissage. Il n'est pas présenté comme un produit commercial déployé ni comme un moyen de contourner les mécanismes de protection d'une plateforme.
+
+Ce projet montre comment la Business Analysis, l'analyse des systèmes, la gestion de projet et le développement responsable assisté par l'IA peuvent transformer une difficulté quotidienne en un concept de solution structuré.
+
+Quelle interruption numérique récurrente aimeriez-vous que la technologie résolve de manière responsable?
+
+#BusinessAnalysis #TransformationDigitale #AdoptionIA #ExpérienceUtilisateur #DéveloppementProduit",https://www.linkedin.com/feed/update/urn:li:share:7507422962124505089,7507422962124505089,Not checked,2026-09-20,87
+E46,2026-09-20,EN,AI-Assisted Digital Solution Prototype,Long learning sessions should not be repeatedly disrupted by avoidable playback interruptions.,"ENGLISH
+
+Long learning sessions should not be repeatedly disrupted by avoidable playback interruptions.
+
+While listening to or learning from long YouTube videos, I found that playback could stop and require manual confirmation to continue.
+
+If I was working, exercising, cooking or away from my mobile, returning to the screen disrupted both my activity and the learning experience.
+
+This practical frustration led me to design and develop a hands-free playback-continuity assistant as a personal AI-assisted prototype.
+
+The project began with clear user requirements:
+• Reduce avoidable interruptions during long viewing or listening sessions
+• Minimize repeated manual interaction with the mobile device
+• Preserve user choice and control
+• Consider accessibility, privacy and platform requirements
+• Test different interruption scenarios and limitations
+
+From a Senior Business Analyst perspective, the important work was not simply developing a technical response.
+
+It required:
+• Understanding the real user problem
+• Translating it into functional requirements
+• Identifying risks and responsible controls
+• Designing and testing a practical prototype
+• Evaluating its usefulness without overstating its capabilities
+
+This is a hands-on learning prototype. It is not presented as a commercially deployed product or as a method for bypassing platform safeguards.
+
+The project demonstrates how Business Analysis, Systems Analysis, Project Management and responsible AI-assisted development can transform an everyday frustration into a structured solution concept.
+
+What recurring digital interruption would you most like technology to solve responsibly?
+
+#BusinessAnalysis #DigitalTransformation #AIEnablement #UserExperience #ProductDevelopment",https://www.linkedin.com/feed/update/urn:li:share:7507422792506605568,7507422792506605568,Not checked,2026-09-20,86
