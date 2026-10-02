@@ -1,4 +1,73 @@
 Activity ID,Language,Publication Date,Title,Full Approved Post Text,LinkedIn URL,Topic,Embed Status
+7511547577406836736,de,2026-10-01T12:00:00Z,"Wer darf diese Daten einsehen, ändern oder freigeben?","DEUTSCH
+
+Wer darf diese Daten einsehen, ändern oder freigeben?
+
+Diese Frage gehört zu den fachlichen Anforderungen und ist mehr als eine Systemeinstellung.
+
+Bei der Weltorganisation für geistiges Eigentum (WIPO) koordinierte ich auf der Fachseite Anforderungen und Funktionstests. Zudem wirkte ich bei der Verwaltung von Zugriffsrechten und bei Sicherheitsüberprüfungen mit. Dabei wurde deutlich, wie eng Nutzbarkeit und Kontrolle zusammenhängen.
+
+Bei der Festlegung von Zugriffsrechten kläre ich:
+• Welche Rolle benötigt die Daten?
+• Für welche Aufgabe?
+• Welche Aktionen muss diese Rolle ausführen dürfen?
+• Wer genehmigt und überprüft Zugriffe, wenn sich Rollen ändern?
+
+Bei der Benutzerakzeptanzprüfung (UAT) müssen beide Seiten getestet werden: Berechtigte können ihre Arbeit erledigen, während Unberechtigte keine geschützten Aktionen ausführen können.
+
+Als Senior Business Analyst verbinde ich Nutzer, Prozesse, Daten und Systeme, damit Zugriffsregeln die tägliche Arbeit unterstützen und Informationen schützen.
+
+Wird eine Zugriffsregel erst nach der Einführung erkannt, kann dies für Nutzer, Kontrollen oder beide zum Problem werden.
+
+Welche Frage zu Zugriffsrechten wird bei Anforderungen oder Tests am häufigsten übersehen?
+
+#BusinessAnalyse #Zugriffsrechte #Benutzerakzeptanztest #DatenGovernance",https://www.linkedin.com/feed/update/urn:li:activity:7511547577406836736/,business-analysis,true
+7511547387153219584,fr,2026-10-01T12:00:00Z,"Qui doit pouvoir consulter, modifier ou approuver ces données ?","FRANÇAIS
+
+Qui doit pouvoir consulter, modifier ou approuver ces données ?
+
+Cette question relève des exigences métier, au-delà d'un simple paramètre du système.
+
+À l'Organisation mondiale de la propriété intellectuelle (OMPI), mon travail côté métier comprenait la coordination des exigences et des tests fonctionnels. J'ai également contribué à la gestion des accès et aux revues de sécurité. Cette expérience m'a montré à quel point l'utilisation du système et les contrôles sont liés.
+
+Pour définir les accès, je clarifie les points suivants :
+• Quel rôle a besoin des données ?
+• Pour accomplir quelle tâche ?
+• Quelles actions ce rôle doit-il pouvoir effectuer ?
+• Qui approuve et revoit les accès lorsque les rôles évoluent ?
+
+La recette utilisateur (UAT) doit vérifier les deux situations : les personnes autorisées peuvent accomplir leur travail, tandis que les autres ne peuvent pas effectuer les actions réservées.
+
+En tant qu'analyste métier senior, je relie utilisateurs, processus, données et systèmes afin que les règles d'accès soutiennent le travail quotidien et protègent les informations.
+
+Une règle d'accès découverte après la mise en service peut devenir un problème pour les utilisateurs, un problème de contrôle, ou les deux.
+
+Quelle question sur les accès est le plus souvent oubliée lors de la définition des exigences ou des tests ?
+
+#AnalyseMétier #GestionDesAccès #RecetteUtilisateur #GouvernanceDesDonnées",https://www.linkedin.com/feed/update/urn:li:activity:7511547387153219584/,business-analysis,true
+7511546741062590464,en,2026-10-01T12:00:00Z,"Who should be allowed to see, change or approve this data?","ENGLISH
+
+Who should be allowed to see, change or approve this data?
+
+That question is a business requirement, not just a system setting.
+
+At the World Intellectual Property Organization (WIPO), my business-side platform work included coordinating requirements and functional testing. I also contributed to access management and security reviews. This reinforced how closely usability and control are linked.
+
+When defining access, I make these decisions explicit:
+• Which role needs the data?
+• Which task requires it?
+• Which actions should that role be able to perform?
+• Who approves and reviews access as roles change?
+
+UAT should test both outcomes: authorized users can complete the workflow, and users without permission cannot perform restricted actions.
+
+As a Senior Business Analyst, I connect users, processes, data and systems so access rules support daily work and protect information.
+
+An access rule discovered after launch can become a user problem, a control problem, or both.
+
+Which access question is most often missed during requirements or testing?
+
+#BusinessAnalysis #AccessManagement #UAT #DataGovernance",https://www.linkedin.com/feed/update/urn:li:activity:7511546741062590464/,business-analysis,true
 7511109263315046401,en,2026-09-30T12:00:00Z,Image-only post without a published caption.,,https://www.linkedin.com/feed/update/urn:li:activity:7511109263315046401/,business-analysis,true
 7511075951309430784,de,2026-09-30T12:00:00Z,Zwei Teams können sich über das Problem einig sein und trotzdem unterschiedliche Lösungen verlangen.,"DEUTSCH
 
@@ -1672,55 +1741,55 @@ Where do you think AI can add the most value during Systems Analysis or UAT?
 #UAT
 #ArtificialIntelligence
 #DigitalTransformation",https://www.linkedin.com/feed/update/urn:li:activity:7503069848776728576/,business-analysis,true
-7501089635339722753,de,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_businessanalysis-kieinfaeshrung-digitaletransformation-activity-7501089635339722753-3jqH,ai-enablement,true
-7501089591177928704,fr,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_businessanalysis-adoptionia-transformationdigitale-activity-7501089591177928704-a1e7,ai-enablement,true
-7501089072501903360,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_businessanalysis-aienablement-digitaltransformation-activity-7501089072501903360--JeD,ai-enablement,true
-7500930778214703104,de,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_businessanalysis-benutzerakzeptanz-changemanagement-activity-7500930778214703104-7UPz,change-management,true
-7500930746275057665,fr,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_businessanalysis-adoptionutilisateurs-gestionduchangement-activity-7500930746275057665-rXz2,change-management,true
-7500930690667065345,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_businessanalysis-useradoption-changemanagement-activity-7500930690667065345-7zRc,change-management,true
-7500487074328829952,de,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_digitaletransformation-businessanalysis-prozessverbesserung-activity-7500487074328829952-wyun,digital-transformation,true
-7500486963402072064,fr,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_transformationdigitale-businessanalysis-amaezliorationdesprocessus-activity-7500486963402072064--KwQ,digital-transformation,true
-7500486868166254592,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_digitaltransformation-businessanalysis-processimprovement-activity-7500486868166254592-Q091,digital-transformation,true
-7500470252829380608,de,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_projektmanagement-businessanalysis-stakeholdermanagement-activity-7500470252829380608-M4KT,project-management,true
-7500468625544486912,de,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_datenmanagement-datenqualitaeut-automatisierung-activity-7500468625544486912-01h2,data-management,true
-7500468212078125056,de,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_businessanalysis-systemanalyse-projektmanagement-activity-7500468212078125056-z0DN,project-management,true
-7500467873811742720,de,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_verantwortungsvolleki-kisicherheit-businessanalysis-activity-7500467873811742720-E0qE,ai-enablement,true
-7500467621696299008,de,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_projektmanagement-businessanalysis-automatisierung-activity-7500467621696299008-rgko,data-management,true
-7500467020052860928,de,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_systemanalyse-businessanalysis-benutzerakzeptanztests-activity-7500467020052860928-hJIl,change-management,true
-7500159998568685568,fr,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_gestiondeprojet-businessanalysis-automatisation-activity-7500159998568685568-V3sl,data-management,true
-7500159309927047169,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_projectmanagement-businessanalysis-automation-activity-7500159309927047169-tD1L,project-management,true
-7499885427626168321,fr,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_businessanalysis-analysedessystaeymes-gestiondeprojet-activity-7499885427626168321-XRK1,project-management,true
-7499884645061214208,fr,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_gestiondeprojet-businessanalysis-gestiondespartiesprenantes-activity-7499884645061214208-j4v9,project-management,true
-7499884370820788224,fr,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_gestiondesdonnaezes-automatisationdesprocessus-activity-7499884370820788224-sUYa,data-management,true
-7499627214045380608,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_datamanagement-processautomation-businessanalysis-activity-7499627214045380608-QoMg,data-management,true
-7499419200893947904,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_businessanalysis-systemsanalysis-projectmanagement-activity-7499419200893947904-Rs9J,project-management,true
-7499116990603763712,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_businessanalysis-datamanagement-projectmanagement-activity-7499116990603763712-l7DG,data-management,true
-7472270904371183617,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_opentowork-activity-7472270904371183617-mR-z,career,true
-7470794453922856961,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_ai-enhanced-business-analyst-portfolio-activity-7470794453922856961-dX3v,ai-enablement,true
-7468474820188467200,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_use-of-ai-in-business-analyses-pm-dm-activity-7468474820188467200-kLM_,ai-enablement,true
-7466916112094568448,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_presentation-ai-shifts-may-2026-activity-7466916112094568448-Do3y,professional-development,true
-7466896968854716417,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_pettichat-activity-7466896968854716417-oc3Z,career,true
-7465932713603018752,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_%F0%9D%90%86%F0%9D%90%A8%F0%9D%90%A8%F0%9D%90%A0%F0%9D%90%A5%F0%9D%90%9E-%F0%9D%90%A3%F0%9D%90%AE%F0%9D%90%AC%F0%9D%90%AD-%F0%9D%90%A4%F0%9D%90%A2%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%9D-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-activity-7465932713603018752-Ec2o,business-analysis,true
-7421875939032072192,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_opentowork-activity-7421875939032072192-kNh9,career,true
-7229117477610262528,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_certificate-of-completion-activity-7229117477610262528-3aKu,professional-development,true
-7229117335108820992,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_certificate-of-completion-activity-7229117335108820992-SI-g,professional-development,true
-7229106489443930112,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_linkedinlearning-activity-7229106489443930112-Ji_t,professional-development,true
-7229106309298548736,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_certificate-of-completion-activity-7229106309298548736-9vnO,professional-development,true
-7229106120923967489,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_certificate-of-completion-activity-7229106120923967489-k_VQ,professional-development,true
-7229105198915289088,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_certificate-of-completion-activity-7229105198915289088-G15c,professional-development,true
-7229100711639150592,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_linkedinlearning-activity-7229100711639150592-IhBL,professional-development,true
-7229080946627493889,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_linkedinlearning-activity-7229080946627493889-Lumw,professional-development,true
-7229056767874224128,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_linkedinlearning-activity-7229056767874224128-Ty44,professional-development,true
-7228833679924445188,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_check-this-out-on-linkedin-learning-i-have-activity-7228833679924445188-E7zt,professional-development,true
-7228833647083024385,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_generativeaitools-generativeai-artificialintelligence-activity-7228833647083024385-YP7r,ai-enablement,true
-7228833595543416833,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_certificate-of-completion-activity-7228833595543416833-8-os,professional-development,true
-7028671180081385472,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_check-out-this-course-on-linkedin-learning-activity-7028671180081385472-26WA,professional-development,true
-7005511003186556929,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_im-happy-to-share-that-im-starting-a-new-activity-7005511003186556929-SVGA,career,true
-6956394140750245888,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_opentowork-opportunities-activity-6956394140750245888-C1YJ,career,true
-6942882529502789632,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_cheatsheets-activity-6942882529502789632-uU0b,professional-development,true
-6931386712501706752,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_opentowork-activity-6931386712501706752-vYNP,career,true
-6930525215017861120,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_opentowork-activity-6930525215017861120-p2ZR,career,true
-6900283725142126592,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_opentowork-activity-6900283725142126592-R-lG,career,true
+7501089635339722753,de,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_businessanalysis-kieinfaeshrung-digitaletransformation-activity-7501089635339722753-3jqH/,ai-enablement,true
+7501089591177928704,fr,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_businessanalysis-adoptionia-transformationdigitale-activity-7501089591177928704-a1e7/,ai-enablement,true
+7501089072501903360,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_businessanalysis-aienablement-digitaltransformation-activity-7501089072501903360--JeD/,ai-enablement,true
+7500930778214703104,de,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_businessanalysis-benutzerakzeptanz-changemanagement-activity-7500930778214703104-7UPz/,change-management,true
+7500930746275057665,fr,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_businessanalysis-adoptionutilisateurs-gestionduchangement-activity-7500930746275057665-rXz2/,change-management,true
+7500930690667065345,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_businessanalysis-useradoption-changemanagement-activity-7500930690667065345-7zRc/,change-management,true
+7500487074328829952,de,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_digitaletransformation-businessanalysis-prozessverbesserung-activity-7500487074328829952-wyun/,digital-transformation,true
+7500486963402072064,fr,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_transformationdigitale-businessanalysis-amaezliorationdesprocessus-activity-7500486963402072064--KwQ/,digital-transformation,true
+7500486868166254592,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_digitaltransformation-businessanalysis-processimprovement-activity-7500486868166254592-Q091/,digital-transformation,true
+7500470252829380608,de,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_projektmanagement-businessanalysis-stakeholdermanagement-activity-7500470252829380608-M4KT/,project-management,true
+7500468625544486912,de,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_datenmanagement-datenqualitaeut-automatisierung-activity-7500468625544486912-01h2/,data-management,true
+7500468212078125056,de,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_businessanalysis-systemanalyse-projektmanagement-activity-7500468212078125056-z0DN/,project-management,true
+7500467873811742720,de,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_verantwortungsvolleki-kisicherheit-businessanalysis-activity-7500467873811742720-E0qE/,ai-enablement,true
+7500467621696299008,de,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_projektmanagement-businessanalysis-automatisierung-activity-7500467621696299008-rgko/,data-management,true
+7500467020052860928,de,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_systemanalyse-businessanalysis-benutzerakzeptanztests-activity-7500467020052860928-hJIl/,change-management,true
+7500159998568685568,fr,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_gestiondeprojet-businessanalysis-automatisation-activity-7500159998568685568-V3sl/,data-management,true
+7500159309927047169,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_projectmanagement-businessanalysis-automation-activity-7500159309927047169-tD1L/,project-management,true
+7499885427626168321,fr,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_businessanalysis-analysedessystaeymes-gestiondeprojet-activity-7499885427626168321-XRK1/,project-management,true
+7499884645061214208,fr,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_gestiondeprojet-businessanalysis-gestiondespartiesprenantes-activity-7499884645061214208-j4v9/,project-management,true
+7499884370820788224,fr,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_gestiondesdonnaezes-automatisationdesprocessus-activity-7499884370820788224-sUYa/,data-management,true
+7499627214045380608,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_datamanagement-processautomation-businessanalysis-activity-7499627214045380608-QoMg/,data-management,true
+7499419200893947904,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_businessanalysis-systemsanalysis-projectmanagement-activity-7499419200893947904-Rs9J/,project-management,true
+7499116990603763712,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_businessanalysis-datamanagement-projectmanagement-activity-7499116990603763712-l7DG/,data-management,true
+7472270904371183617,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_opentowork-activity-7472270904371183617-mR-z/,career,true
+7470794453922856961,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_ai-enhanced-business-analyst-portfolio-activity-7470794453922856961-dX3v/,ai-enablement,true
+7468474820188467200,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_use-of-ai-in-business-analyses-pm-dm-activity-7468474820188467200-kLM_/,ai-enablement,true
+7466916112094568448,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_presentation-ai-shifts-may-2026-activity-7466916112094568448-Do3y/,professional-development,true
+7466896968854716417,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_pettichat-activity-7466896968854716417-oc3Z/,career,true
+7465932713603018752,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_%F0%9D%90%86%F0%9D%90%A8%F0%9D%90%A8%F0%9D%90%A0%F0%9D%90%A5%F0%9D%90%9E-%F0%9D%90%A3%F0%9D%90%AE%F0%9D%90%AC%F0%9D%90%AD-%F0%9D%90%A4%F0%9D%90%A2%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%9D-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-activity-7465932713603018752-Ec2o/,business-analysis,true
+7421875939032072192,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_opentowork-activity-7421875939032072192-kNh9/,career,true
+7229117477610262528,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_certificate-of-completion-activity-7229117477610262528-3aKu/,professional-development,true
+7229117335108820992,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_certificate-of-completion-activity-7229117335108820992-SI-g/,professional-development,true
+7229106489443930112,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_linkedinlearning-activity-7229106489443930112-Ji_t/,professional-development,true
+7229106309298548736,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_certificate-of-completion-activity-7229106309298548736-9vnO/,professional-development,true
+7229106120923967489,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_certificate-of-completion-activity-7229106120923967489-k_VQ/,professional-development,true
+7229105198915289088,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_certificate-of-completion-activity-7229105198915289088-G15c/,professional-development,true
+7229100711639150592,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_linkedinlearning-activity-7229100711639150592-IhBL/,professional-development,true
+7229080946627493889,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_linkedinlearning-activity-7229080946627493889-Lumw/,professional-development,true
+7229056767874224128,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_linkedinlearning-activity-7229056767874224128-Ty44/,professional-development,true
+7228833679924445188,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_check-this-out-on-linkedin-learning-i-have-activity-7228833679924445188-E7zt/,professional-development,true
+7228833647083024385,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_generativeaitools-generativeai-artificialintelligence-activity-7228833647083024385-YP7r/,ai-enablement,true
+7228833595543416833,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_certificate-of-completion-activity-7228833595543416833-8-os/,professional-development,true
+7028671180081385472,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_check-out-this-course-on-linkedin-learning-activity-7028671180081385472-26WA/,professional-development,true
+7005511003186556929,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_im-happy-to-share-that-im-starting-a-new-activity-7005511003186556929-SVGA/,career,true
+6956394140750245888,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_opentowork-opportunities-activity-6956394140750245888-C1YJ/,career,true
+6942882529502789632,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_cheatsheets-activity-6942882529502789632-uU0b/,professional-development,true
+6931386712501706752,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_opentowork-activity-6931386712501706752-vYNP/,career,true
+6930525215017861120,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_opentowork-activity-6930525215017861120-p2ZR/,career,true
+6900283725142126592,en,2026-09-08T12:00:00Z,LinkedIn post,,https://www.linkedin.com/posts/the-best-fit_opentowork-activity-6900283725142126592-R-lG/,career,true
 7502780649552904192,de,2026-09-07T12:00:00Z,"KI kann das Datenmanagement beschleunigen, aber sie kann weder Datenverantwortung noch Qualitätskontrollen oder professionelles Urteilsvermögen ersetzen.","DEUTSCH
 KI kann das Datenmanagement beschleunigen, aber sie kann weder Datenverantwortung noch Qualitätskontrollen oder professionelles Urteilsvermögen ersetzen.
 Meine Erfahrung in klinischen Datenumgebungen hat mir gezeigt, dass zuverlässige Daten von folgenden Faktoren abhängen:
