@@ -1,4 +1,73 @@
 Activity ID,Language,Publication Date,Title,Full Approved Post Text,LinkedIn URL,Topic,Embed Status
+7513277634487902210,de,2026-10-06T12:00:00Z,RAG oder Fine-tuning?,"DEUTSCH
+
+Ein KI-Assistent gibt eine Antwort auf Grundlage einer veralteten Richtlinie. Sollte man das Modell neu trainieren oder ihm einen besseren Zugriff auf die aktuelle Richtlinie geben?
+
+Das sind unterschiedliche Anforderungen.
+
+Retrieval-Augmented Generation (RAG) sucht relevante Quellinhalte und stellt sie dem Modell beim Beantworten einer Frage zur Verfügung. Dieser Ansatz kann hilfreich sein, wenn Informationen privat sind oder sich häufig ändern.
+
+Fine-tuning passt ein Modell durch zusätzliches Training an, häufig anhand von Beispielen, um eine bestimmte Aufgabe, einen Stil oder ein Antwortmuster zu verbessern. Es ist keine Live-Verbindung zu den neuesten Dokumenten.
+
+Zum Beispiel:
+• Eine Antwort auf Grundlage der neuesten genehmigten Richtlinie deutet eher auf einen Informationsabrufbedarf hin.
+• Das Erlernen eines konsistenten Antwortmusters aus Beispielen deutet eher auf einen Verhaltensbedarf hin.
+
+Beide Ansätze können kombiniert werden. Keiner garantiert eine korrekte Antwort.
+
+Als Senior Business Analyst würde ich zunächst klären, was die Nutzer benötigen, auf welche Informationen sie sich verlassen können und wie eine gute Antwort aussehen soll. So erhalten technische Teams eine klarere Anforderung zur Bewertung.
+
+Ich entwickle dieses KI-Wissen durch strukturiertes, praxisorientiertes Lernen und ergänze damit meine fundierte Erfahrung in der Business Analysis.
+
+Was würden Sie zuerst klären: die Informationen, die der Assistent benötigt, oder die Art, wie er antworten soll?
+
+#BusinessAnalyse #KuenstlicheIntelligenz #RAG #KIEnablement",https://www.linkedin.com/feed/update/urn:li:share:7513277633221033984/,ai-enablement,true
+7513276920420077568,fr,2026-10-06T12:00:00Z,RAG ou fine-tuning?,"FRANÇAIS
+
+Un assistant IA donne une réponse fondée sur une politique obsolète. Faut-il le réentraîner ou lui donner un meilleur accès à la politique actuelle?
+
+Il s'agit de deux besoins différents.
+
+La génération augmentée par recherche (RAG) recherche un contenu source pertinent et le fournit au modèle au moment de répondre. Elle peut être utile lorsque les informations sont privées ou évoluent fréquemment.
+
+Le fine-tuning adapte un modèle au moyen d'un entraînement supplémentaire, souvent à partir d'exemples, afin d'améliorer une tâche, un style ou un modèle de réponse spécifique. Il ne constitue pas une connexion en direct aux documents les plus récents.
+
+Par exemple:
+• Répondre à partir de la dernière politique approuvée correspond plutôt à un besoin de recherche d'information.
+• Apprendre un modèle de réponse cohérent à partir d'exemples correspond plutôt à un besoin de comportement.
+
+Ces approches peuvent être combinées. Aucune ne garantit une réponse correcte.
+
+En tant que Senior Business Analyst, je commencerais par clarifier les besoins des utilisateurs, les informations sur lesquelles ils peuvent s'appuyer et les caractéristiques d'une bonne réponse. Les équipes techniques disposent ainsi d'une exigence plus claire à évaluer.
+
+Je développe ces connaissances en IA par un apprentissage structuré et pratique, en complément de mon expérience établie en Business Analysis.
+
+Que clarifieriez-vous en premier: les informations dont l'assistant a besoin ou la manière dont il doit répondre?
+
+#BusinessAnalysis #IntelligenceArtificielle #RAG #AdoptionIA",https://www.linkedin.com/feed/update/urn:li:share:7513276919191117825/,ai-enablement,true
+7513276132759171072,en,2026-10-06T12:00:00Z,RAG or fine-tuning?,"ENGLISH
+
+An AI assistant gives an outdated policy answer. Should you retrain it, or give it better access to the current policy?
+
+Those are different requirements.
+
+Retrieval-augmented generation (RAG) finds relevant source content and provides it to the model when answering. It can help when information is private or changes frequently.
+
+Fine-tuning adapts a model through additional training, often using examples to improve a specific task, style or response pattern. It is not a live connection to the latest documents.
+
+For example:
+• Answering from the latest approved policy points towards a retrieval need.
+• Learning a consistent response pattern from examples points towards a behaviour need.
+
+These approaches can be combined. Neither guarantees a correct answer.
+
+As a Senior Business Analyst, I would first clarify what users need, which information they can rely on and what a good answer looks like. That gives technical teams a clearer requirement to assess.
+
+I am developing this AI knowledge through structured, hands-on learning, alongside my established Business Analysis experience.
+
+What would you clarify first: the information the assistant needs, or the way it should respond?
+
+#BusinessAnalysis #ArtificialIntelligence #RAG #AIEnablement",https://www.linkedin.com/feed/update/urn:li:share:7513276131433889792/,ai-enablement,true
 7512958554094436352,de,2026-10-05T12:00:00Z,Internationale Veranstaltungen. Koordinierte Umsetzung.,"DEUTSCH
 
 Wird das Programm einer Veranstaltung geändert, müssen unter Umständen auch die Logistik, die Organisation vor Ort und die Teilnehmerinformationen angepasst werden.
