@@ -1,4 +1,136 @@
 Activity ID,Language,Publication Date,Title,Full Approved Post Text,LinkedIn URL,Topic,Embed Status
+7513643856291184640,it,2026-10-07T12:00:00Z,I casi di eccezione,"ITALIANO
+
+Una richiesta viene presentata. La persona incaricata di approvarla non è disponibile. Che cosa succede dopo?
+
+Questo caso di eccezione deve essere previsto nel processo prima che la soluzione entri in funzione.
+
+Consideriamo un semplice processo di approvazione: presentare, esaminare, approvare.
+
+Ora vediamo che cosa può interromperlo:
+• Mancano informazioni obbligatorie
+• La persona incaricata dell'approvazione non è disponibile
+• La richiesta viene respinta
+• La stessa richiesta viene presentata due volte
+
+Ogni situazione richiede una risposta concordata.
+
+Quando la persona incaricata dell'approvazione non è disponibile, le parti interessate devono decidere:
+• Chi è autorizzato a subentrare?
+• Quando occorre inoltrare la richiesta al livello superiore?
+• Quale stato deve essere mostrato al richiedente?
+• Come devono essere conservati i dati e la cronologia della richiesta?
+
+Come Senior Business Analyst, esaminerei queste situazioni con le parti interessate insieme al flusso normale, per poi documentare le regole di business e i criteri di accettazione concordati.
+
+I responsabili del processo definiscono chi può intervenire e quando. I team di realizzazione sanno quali comportamenti del sistema implementare e verificare.
+
+È qui che la Business Analysis si collega all'analisi dei sistemi, alla gestione dei dati e alla realizzazione dei progetti: ogni eccezione deve avere un responsabile chiaramente identificato, una risposta definita e un risultato verificabile tramite test.
+
+Un processo è pronto per l'utilizzo quotidiano quando le persone sanno come agire se il percorso abituale viene interrotto.
+
+Quale caso di eccezione aggiungereste alla revisione di un processo di approvazione?
+
+#BusinessAnalysis #GestioneDeiRequisiti #AnalisiDeiProcessi #AnalisiDeiSistemi",https://www.linkedin.com/feed/update/urn:li:ugcPost:7513643855125196800/,business-analysis,true
+7513643564896063488,de,2026-10-07T12:00:00Z,Ausnahmefälle,"DEUTSCH
+
+Ein Antrag wird eingereicht. Die zuständige Person ist für die Freigabe nicht verfügbar. Was passiert als Nächstes?
+
+Dieser Ausnahmefall muss im Ablauf berücksichtigt werden, bevor die Lösung in Betrieb geht.
+
+Betrachten wir einen einfachen Freigabeprozess: einreichen, prüfen, freigeben.
+
+Was kann diesen Ablauf unterbrechen?
+• Erforderliche Angaben fehlen
+• Die für die Freigabe zuständige Person ist nicht verfügbar
+• Der Antrag wird abgelehnt
+• Derselbe Antrag wird zweimal eingereicht
+
+Für jede Situation braucht es eine abgestimmte Vorgehensweise.
+
+Ist die zuständige Person nicht verfügbar, müssen die Beteiligten entscheiden:
+• Wer darf die Freigabe übernehmen?
+• Ab wann soll der Antrag eskaliert werden?
+• Welchen Status soll die antragstellende Person sehen?
+• Wie sollen die Daten und der Verlauf des Antrags erhalten bleiben?
+
+Als Senior Business Analyst würde ich diese Situationen gemeinsam mit den Beteiligten zusätzlich zum regulären Ablauf durchgehen. Anschließend würde ich die vereinbarten Geschäftsregeln und Akzeptanzkriterien dokumentieren.
+
+Die Prozessverantwortlichen legen fest, wer wann handeln darf. Die Umsetzungsteams wissen, welches Systemverhalten sie implementieren und testen müssen.
+
+Hier verbinden sich Business Analysis, Systemanalyse, Datenmanagement und Projektumsetzung: Jeder Ausnahmefall braucht eine klar verantwortliche Person, eine definierte Reaktion und ein testbares Ergebnis.
+
+Ein Prozess ist für den Arbeitsalltag bereit, wenn die Beteiligten wissen, was bei einer Unterbrechung des regulären Ablaufs zu tun ist.
+
+Welchen Ausnahmefall würden Sie bei der Prüfung eines Freigabeprozesses ergänzen?
+
+#BusinessAnalysis #Anforderungsmanagement #Prozessanalyse #Systemanalyse",https://www.linkedin.com/feed/update/urn:li:ugcPost:7513643563860049920/,business-analysis,true
+7513643291276599296,fr,2026-10-07T12:00:00Z,Les cas d'exception,"FRANÇAIS
+
+Une demande est soumise. La personne chargée de l'approuver est indisponible. Que se passe-t-il ensuite ?
+
+Ce cas d'exception doit être prévu dans le processus avant la mise en service de la solution.
+
+Prenons un processus d'approbation simple : soumettre, examiner, approuver.
+
+Voyons maintenant ce qui peut l'interrompre :
+• Des informations obligatoires sont manquantes
+• La personne chargée de l'approbation est indisponible
+• La demande est rejetée
+• La même demande est soumise deux fois
+
+Chaque situation nécessite une réponse convenue.
+
+Lorsque la personne chargée de l'approbation est indisponible, les parties prenantes doivent décider :
+• Qui est autorisé à prendre le relais ?
+• À quel moment faut-il faire remonter la demande ?
+• Quel statut doit être affiché au demandeur ?
+• Comment conserver les données et l'historique de la demande ?
+
+En tant que Senior Business Analyst, j'examinerais ces situations avec les parties prenantes, en complément du déroulement normal, puis je documenterais les règles métier et les critères d'acceptation convenus.
+
+Les responsables du processus définissent qui peut agir et à quel moment. Les équipes de réalisation savent quels comportements mettre en œuvre et tester.
+
+C'est ici que l'analyse métier rejoint l'analyse des systèmes, la gestion des données et la réalisation des projets : chaque exception doit avoir un responsable clairement identifié, une réponse définie et un résultat vérifiable par les tests.
+
+Un processus est prêt pour une utilisation quotidienne lorsque chacun sait quoi faire si le déroulement habituel est interrompu.
+
+Quel cas d'exception ajouteriez-vous à la revue d'un processus d'approbation ?
+
+#BusinessAnalysis #GestionDesExigences #AnalyseDesProcessus #AnalyseDesSystèmes",https://www.linkedin.com/feed/update/urn:li:ugcPost:7513643290173419522/,business-analysis,true
+7513642909473181696,en,2026-10-07T12:00:00Z,Exception paths,"ENGLISH
+
+A request is submitted. The approver is unavailable. What happens next?
+
+That exception belongs in the workflow before the solution goes live.
+
+Consider a simple approval process: submit, review, approve.
+
+Now consider what can interrupt it:
+• Required information is missing
+• The approver is unavailable
+• The request is rejected
+• The same request is submitted twice
+
+Each situation needs an agreed response.
+
+For an unavailable approver, stakeholders need to decide:
+• Who is authorized to take over?
+• When should escalation begin?
+• What status should the requester see?
+• How should the request data and history be preserved?
+
+As a Senior Business Analyst, I would walk stakeholders through these situations alongside the normal flow, then document the agreed business rules and acceptance criteria.
+
+Process owners define who can act and when. Delivery teams know which behaviour to implement and test.
+
+This is where Business Analysis connects with Systems Analysis, Data Management and project delivery: making sure an exception has a clear owner, a defined response and a testable outcome.
+
+A workflow is ready for daily use when people know what to do when the usual path is interrupted.
+
+Which exception would you add to an approval workflow review?
+
+#BusinessAnalysis #RequirementsManagement #ProcessAnalysis #SystemsAnalysis",https://www.linkedin.com/feed/update/urn:li:ugcPost:7513642906281451520/,business-analysis,true
 7513277634487902210,de,2026-10-06T12:00:00Z,RAG oder Fine-tuning?,"DEUTSCH
 
 Ein KI-Assistent gibt eine Antwort auf Grundlage einer veralteten Richtlinie. Sollte man das Modell neu trainieren oder ihm einen besseren Zugriff auf die aktuelle Richtlinie geben?
