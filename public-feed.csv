@@ -1,4 +1,92 @@
 "Activity ID","Language","Publication Date","Title","Full Approved Post Text","LinkedIn URL","Topic","Embed Status"
+"7522754048865775616","it","2026-11-01T12:00:00Z","Il progetto pilota con l’IA ha funzionato. Chi se ne occupa lunedì mattina?","ITALIANO
+
+Il progetto pilota con l’IA ha funzionato. Chi se ne occupa lunedì mattina?
+
+Immaginate un team che sperimenta un assistente IA per preparare risposte alle domande ricorrenti dei clienti. Ogni risposta viene verificata prima dell’invio. Il progetto pilota sembra utile.
+
+Poi cambia un documento di riferimento. L’assistente continua a usare le vecchie istruzioni. Un collega nota l’errore. Chi può correggerlo, e cosa devono fare gli altri nel frattempo?
+
+Prima di estendere la sperimentazione, concorderei quattro decisioni con il responsabile di business:
+• Chi è responsabile delle informazioni di riferimento e ne approva gli aggiornamenti.
+• Dove gli utenti segnalano una risposta errata e chi risponde alla segnalazione.
+• Chi può sospendere l’uso dell’assistente, con un sostituto designato.
+• Quale processo esistente segue il team quando l’assistente non è disponibile.
+
+Simulerei questo incidente con le persone chiamate a gestirlo. Un nome nel documento di passaggio di consegne è utile solo se quella persona comprende la responsabilità e può intervenire.
+
+Per un Senior Business Analyst, l’adozione comprende anche il lavoro intorno allo strumento. La formazione dovrebbe spiegare come mettere in discussione una risposta, segnalare un problema e continuare a lavorare in sicurezza.
+
+Questi riscontri danno anche all’apprendimento continuo un posto nel lavoro quotidiano.
+
+Chi riceve la prima segnalazione di errore dopo il vostro progetto pilota con l’IA?
+
+#BusinessAnalysis #AdozioneIA #GestioneDelCambiamento #TrasformazioneDigitale","https://www.linkedin.com/feed/update/urn:li:activity:7522754048865775616/","ai-enablement","False"
+"7522753879885787136","de","2026-11-01T12:00:00Z","Der KI-Pilot war erfolgreich. Montagmorgen kommt die erste Fehlermeldung. Wer reagiert?","DEUTSCH
+
+Der KI-Pilot war erfolgreich. Montagmorgen kommt die erste Fehlermeldung. Wer reagiert?
+
+Ein Beispielszenario: Ein Assistent entwirft Antworten auf Kundenfragen. Menschen prüfen jeden Entwurf vor dem Versand.
+
+Dann ändert sich ein Quelldokument. Der Assistent nutzt weiter die alten Vorgaben. Ein Mitarbeiter bemerkt den Fehler. Die zuständige Person ist abwesend.
+
+Vor der Übergabe müssen vier Fragen mit dem Business Owner geklärt sein:
+• Wer aktualisiert die Quelle und gibt Änderungen frei?
+• Wer erhält Fehlermeldungen und antwortet den Nutzern?
+• Wer darf die Nutzung pausieren, und wer übernimmt die Vertretung?
+• Welcher bestehende Ablauf gilt während der Pause?
+
+Ich würde genau diesen Ausfall der zuständigen Person durchspielen: Kann die Vertretung handeln? Wissen die Mitarbeitenden, wie sie weiterarbeiten?
+
+Zur Business Analysis gehört hier auch die Schulung: Antworten hinterfragen, Fehler melden und den Ersatzablauf nutzen. Die Rückmeldungen fliessen in kontinuierliches Lernen ein.
+
+Projektverantwortliche: Wer erhält Ihre erste KI-Fehlermeldung, wenn die zuständige Person fehlt?
+
+#BusinessAnalysis #KIEinführung #ChangeManagement #DigitaleTransformation","https://www.linkedin.com/feed/update/urn:li:activity:7522753879885787136/","ai-enablement","False"
+"7522753636419031040","fr","2026-11-01T12:00:00Z","Le pilote IA a fonctionné. Lundi matin, une erreur apparaît. Qui prend le relais ?","FRANÇAIS
+
+Le pilote IA a fonctionné. Lundi matin, une erreur apparaît. Qui prend le relais ?
+
+Imaginez un assistant IA qui prépare les réponses aux questions courantes des clients. Chaque brouillon est vérifié avant envoi.
+
+Un document source change, mais l’assistant utilise encore les anciennes consignes. Un collaborateur repère l’erreur. À qui la signale-t-il ? Que fait le reste de l’équipe en attendant ?
+
+Avant d’élargir le pilote, je conviendrais de quatre décisions avec le responsable métier :
+• Qui tient les informations sources à jour et approuve les modifications.
+• Qui reçoit les signalements et répond aux utilisateurs.
+• Qui peut suspendre l’utilisation, avec un remplaçant désigné.
+• Quel processus existant permet de continuer à travailler.
+
+Puis je ferais un essai : le responsable est absent, un signalement arrive. Le remplaçant sait-il quoi faire et peut-il réellement intervenir ?
+
+C’est un travail de Business Analysis à préparer avec les utilisateurs. La formation doit aussi leur apprendre à questionner une réponse et à signaler un problème. Ces retours alimentent l’apprentissage continu de l’équipe.
+
+Qui reçoit le premier signalement d’erreur après votre pilote IA ?
+
+#BusinessAnalysis #AdoptionIA #ConduiteDuChangement #TransformationDigitale","https://www.linkedin.com/feed/update/urn:li:activity:7522753636419031040/","ai-enablement","False"
+"7522753396303413248","en","2026-11-01T12:00:00Z","The AI pilot worked. Who owns it on Monday morning?","ENGLISH
+
+The AI pilot worked. Who owns it on Monday morning?
+
+Imagine a team piloting an AI assistant to draft replies to routine customer questions. People check every reply before sending it. The pilot looks useful.
+
+Then a source document changes. The assistant keeps using the old instructions. An employee spots the error. Who can fix it, and what should everyone else do meanwhile?
+
+Before extending that pilot, I would agree four decisions with the business owner:
+• Who owns the source information and approves updates.
+• Where employees report a wrong answer and who responds.
+• Who can pause the assistant, with a named backup.
+• Which existing process people use while it is unavailable.
+
+I would walk through that incident with the people expected to handle it. A name in a handover document helps only if that person understands the responsibility and can act.
+
+For a Senior Business Analyst, user adoption includes the work around the tool. Training should cover how to question an answer, report a problem and continue working safely.
+
+That feedback also gives continuous learning a place in the operating process.
+
+Who receives the first error report after your AI pilot ends?
+
+#BusinessAnalysis #AIAdoption #ChangeManagement #DigitalTransformation","https://www.linkedin.com/feed/update/urn:li:activity:7522753396303413248/","ai-enablement","False"
 "7521002336115159040","it","2026-10-28T12:00:00Z","«Usiamo l’IA» non è un risultato di business.","«Usiamo l’IA» non è un risultato di business.
 
 La domanda è: quale attività è migliorata e come lo sappiamo?
@@ -9,7 +97,7 @@ Come Business Analyst, inizierei misurando il processo attuale. Poi concorderei 
 
 Infine, confronterei il tempo necessario e la qualità del riepilogo verificato, preparato con l’aiuto dell’IA, con quelli del processo esistente.
 
-Quale attività assistita dall’IA misurate nel vostro team?","https://www.linkedin.com/feed/update/urn:li:ugcPost:7521002335213408256/","ai-enablement","False"
+Quale attività assistita dall’IA misurate nel vostro team?","https://www.linkedin.com/feed/update/urn:li:ugcPost:7521002335213408256/","business-analysis","False"
 "7521001986046193665","de","2026-10-28T12:00:00Z","«Wir nutzen KI» ist noch kein Geschäftsergebnis.","«Wir nutzen KI» ist noch kein Geschäftsergebnis.
 
 Die Frage lautet: Welche Aufgabe wurde verbessert, und woran erkennen wir das?
@@ -202,8 +290,8 @@ Il s’agissait d’automatisation en Visual Basic, avant mon apprentissage actu
 
 Où votre équipe cherche-t-elle régulièrement une réponse qui existe déjà ?
 
-#BusinessAnalysis #GestionDesDonnées #Automatisation","https://www.linkedin.com/feed/update/urn:li:ugcPost:7518075188438163456/","data-management","False"
-"7516696241469083648","it","2026-10-16T12:00:00Z","Un dato mancante non è zero","ITALIANO
+#BusinessAnalysis #GestionDesDonnées #Automatisation","https://www.linkedin.com/feed/update/urn:li:ugcPost:7518075188438163456/","ai-enablement","False"
+"7516696241469083648","it","2026-01-01T12:00:00Z","Un dato mancante non è zero","ITALIANO
 
 Una cella vuota diventa zero. Il dashboard passa al verde.
 
@@ -222,7 +310,7 @@ Il mio test di accettazione avrebbe tre casi: uno zero confermato, un valore sco
 Cosa significa una cella vuota nel vostro rapporto più importante?
 
 #BusinessAnalysis #GestioneDeiDati #Reporting","https://www.linkedin.com/feed/update/urn:li:ugcPost:7516696240441614336/","data-management","False"
-"7516696238415675393","de","2026-10-16T12:00:00Z","Fehlende Daten sind keine Null","DEUTSCH
+"7516696238415675393","de","2026-01-01T12:00:00Z","Fehlende Daten sind keine Null","DEUTSCH
 
 Eine leere Zelle wird zur Null. Das Dashboard zeigt Grün.
 
@@ -241,7 +329,7 @@ Hier würde ich Business Analyse ins Reporting einbringen: die Bedeutung mit Dat
 Was bedeutet eine leere Zelle in Ihrem wichtigsten Bericht?
 
 #BusinessAnalysis #Datenmanagement #Reporting","https://www.linkedin.com/feed/update/urn:li:ugcPost:7516696237392420864/","data-management","False"
-"7516696237576749056","fr","2026-10-16T12:00:00Z","Une donnée manquante n’est pas un zéro","FRANÇAIS
+"7516696237576749056","fr","2026-01-01T12:00:00Z","Une donnée manquante n’est pas un zéro","FRANÇAIS
 
 Une cellule vide devient zéro. Le tableau de bord passe au vert.
 
@@ -260,7 +348,7 @@ C’est là que j’apporterais l’analyse métier au reporting : convenir du s
 Que signifie une cellule vide dans votre rapport le plus important ?
 
 #BusinessAnalysis #GestionDesDonnées #Reporting","https://www.linkedin.com/feed/update/urn:li:ugcPost:7516696236566069248/","data-management","False"
-"7516696236742045696","en","2026-10-16T12:00:00Z","Missing data is not zero","ENGLISH
+"7516696236742045696","en","2026-01-01T12:00:00Z","Missing data is not zero","ENGLISH
 
 A blank cell becomes zero. The dashboard turns green.
 
@@ -279,7 +367,7 @@ I would agree the meaning with the people supplying and using the data, then tes
 What does a blank cell mean in your most important report?
 
 #BusinessAnalysis #DataManagement #Reporting","https://www.linkedin.com/feed/update/urn:li:ugcPost:7516696235588784128/","data-management","False"
-"7516172197158326272","it","2026-10-14T12:00:00Z","Sicurezza dei documenti IA: un approccio di Business Analysis","ITALIANO
+"7516172197158326272","it","2026-01-01T12:00:00Z","Sicurezza dei documenti IA: un approccio di Business Analysis","ITALIANO
 
 «Nascondi i rischi al lettore.»
 
@@ -296,7 +384,7 @@ Il test di accettazione: riassumere la proposta, identificarne i rischi e non di
 Quale azione manterreste sotto approvazione umana?
 
 #BusinessAnalysis #IAResponsabile #AnalisiDeiSistemi","https://www.linkedin.com/feed/update/urn:li:ugcPost:7516172195996426240/","ai-enablement","False"
-"7516172194180399104","de","2026-10-14T12:00:00Z","KI-Dokumentsicherheit aus Sicht der Business Analyse","DEUTSCH
+"7516172194180399104","de","2026-01-01T12:00:00Z","KI-Dokumentsicherheit aus Sicht der Business Analyse","DEUTSCH
 
 Ein PDF kann versuchen, Ihre KI zum Verschweigen von Risiken zu bringen.
 
@@ -318,7 +406,7 @@ Diese Kontrollen ergänzen sich. Ein einzelner Prompt oder Filter bietet keine S
 Welche Aktion würden Sie nur nach menschlicher Freigabe erlauben?
 
 #BusinessAnalysis #VerantwortungsvolleKI #Systemanalyse","https://www.linkedin.com/feed/update/urn:li:ugcPost:7516172193165217792/","ai-enablement","False"
-"7516172191290535936","fr","2026-10-14T12:00:00Z","Sécurité des documents IA : une approche d’analyse métier","FRANÇAIS
+"7516172191290535936","fr","2026-01-01T12:00:00Z","Sécurité des documents IA : une approche d’analyse métier","FRANÇAIS
 
 Une proposition fournisseur demande à votre IA de cacher les risques.
 
@@ -335,7 +423,7 @@ Le test d’acceptation : résumer la proposition, identifier ses risques et ne 
 Quelle action conserveriez-vous sous validation humaine ?
 
 #BusinessAnalysis #IAResponsable #AnalyseDesSystèmes","https://www.linkedin.com/feed/update/urn:li:ugcPost:7516172190254301184/","ai-enablement","False"
-"7516172189000237056","en","2026-10-14T12:00:00Z","AI document safety: a Business Analysis approach","ENGLISH
+"7516172189000237056","en","2026-01-01T12:00:00Z","AI document safety: a Business Analysis approach","ENGLISH
 
 A supplier proposal tells your AI to hide the risks.
 
@@ -352,7 +440,7 @@ The acceptance test: summarise the proposal, identify its risks and make no unau
 Which action would you keep under human approval?
 
 #BusinessAnalysis #ResponsibleAI #SystemsAnalysis","https://www.linkedin.com/feed/update/urn:li:ugcPost:7516172187850952705/","ai-enablement","False"
-"7515554493539979265","it","2026-10-13T12:00:00Z","Chi segue la richiesta dopo che avete inoltrato l'e-mail?","ITALIANO
+"7515554493539979265","it","2026-01-01T12:00:00Z","Chi segue la richiesta dopo che avete inoltrato l'e-mail?","ITALIANO
 
 Chi segue la richiesta dopo che avete inoltrato l'e-mail?
 
@@ -368,8 +456,8 @@ Quando esamino un processo come Senior Business Analyst, chiedo chi segue la ric
 
 Chi se ne occupa nel vostro team?
 
-#BusinessAnalysis #Leadership #StakeholderManagement #OperazioniCliniche","https://www.linkedin.com/feed/update/urn:li:ugcPost:7515554492457615360/","business-analysis","False"
-"7515554428071104512","de","2026-10-13T12:00:00Z","6 Kundenkoordinatoren. Genf und Indianapolis. Ein bedeutender Pharmakunde.","DEUTSCH
+#BusinessAnalysis #Leadership #StakeholderManagement #OperazioniCliniche","https://www.linkedin.com/feed/update/urn:li:ugcPost:7515554492457615360/","project-management","False"
+"7515554428071104512","de","2026-01-01T12:00:00Z","6 Kundenkoordinatoren. Genf und Indianapolis. Ein bedeutender Pharmakunde.","DEUTSCH
 
 6 Kundenkoordinatoren. Genf und Indianapolis. Ein bedeutender Pharmakunde.
 
@@ -387,8 +475,8 @@ Diese Erfahrung prägt meinen Blick als Senior Business Analyst: Wer verfolgt di
 
 Teamleitungen: Wer übernimmt diese Aufgabe bei Ihnen?
 
-#BusinessAnalysis #Teamführung #StakeholderManagement #ClinicalOperations","https://www.linkedin.com/feed/update/urn:li:ugcPost:7515554427089391617/","business-analysis","False"
-"7515554339931824128","fr","2026-10-13T12:00:00Z","Qui reprend le suivi quand l'e-mail change de destinataire ?","FRANÇAIS
+#BusinessAnalysis #Teamführung #StakeholderManagement #ClinicalOperations","https://www.linkedin.com/feed/update/urn:li:ugcPost:7515554427089391617/","data-management","False"
+"7515554339931824128","fr","2026-01-01T12:00:00Z","Qui reprend le suivi quand l'e-mail change de destinataire ?","FRANÇAIS
 
 Qui reprend le suivi quand l'e-mail change de destinataire ?
 
@@ -404,8 +492,8 @@ Ce suivi reste une question concrète dans mon travail de Senior Business Analys
 
 Dans votre équipe, le destinataire de l'e-mail et la personne chargée du suivi sont-ils toujours les mêmes ?
 
-#BusinessAnalysis #Leadership #GestionDesPartiesPrenantes #OpérationsCliniques","https://www.linkedin.com/feed/update/urn:li:ugcPost:7515554338891632640/","business-analysis","False"
-"7515554184545439744","en","2026-10-13T12:00:00Z","Who owns the request after you forward the email?","ENGLISH
+#BusinessAnalysis #Leadership #GestionDesPartiesPrenantes #OpérationsCliniques","https://www.linkedin.com/feed/update/urn:li:ugcPost:7515554338891632640/","project-management","False"
+"7515554184545439744","en","2026-01-01T12:00:00Z","Who owns the request after you forward the email?","ENGLISH
 
 Who owns the request after you forward the email?
 
@@ -421,8 +509,8 @@ When reviewing a workflow as a Senior Business Analyst, I ask who follows the re
 
 Who does that in your team?
 
-#BusinessAnalysis #TeamLeadership #StakeholderManagement #ClinicalOperations","https://www.linkedin.com/feed/update/urn:li:ugcPost:7515554181475205120/","business-analysis","False"
-"7515015079189204992","it","2026-10-11T12:00:00Z","È tutto urgente. Che cosa può aspettare?","ITALIANO
+#BusinessAnalysis #TeamLeadership #StakeholderManagement #ClinicalOperations","https://www.linkedin.com/feed/update/urn:li:ugcPost:7515554181475205120/","project-management","False"
+"7515015079189204992","it","2026-01-01T12:00:00Z","È tutto urgente. Che cosa può aspettare?","ITALIANO
 
 «Iniziate subito questa attività urgente.»
 Quale impegno già preso deve essere rinviato?
@@ -444,8 +532,8 @@ Una nuova priorità modifica un impegno esistente. Indicare quell’impegno rend
 
 Quando arriva una nuova urgenza, chi conferma che cosa dovrà aspettare?
 
-#Leadership #BusinessAnalysis #ProjectManagement #Priorità","https://www.linkedin.com/feed/update/urn:li:ugcPost:7515015078165827584/","business-analysis","False"
-"7515015076030943232","fr","2026-10-11T12:00:00Z","Tout est urgent. Que faut-il reporter ?","FRANÇAIS
+#Leadership #BusinessAnalysis #ProjectManagement #Priorità","https://www.linkedin.com/feed/update/urn:li:ugcPost:7515015078165827584/","project-management","False"
+"7515015076030943232","fr","2026-01-01T12:00:00Z","Tout est urgent. Que faut-il reporter ?","FRANÇAIS
 
 « Commencez cette tâche urgente maintenant. »
 Quel engagement déjà pris doit être reporté ?
@@ -467,8 +555,8 @@ Une nouvelle priorité modifie un engagement existant. Nommer cet engagement ren
 
 Lorsqu’une nouvelle urgence arrive, qui valide ce qui devra attendre ?
 
-#Leadership #BusinessAnalysis #GestionDeProjet #Priorisation","https://www.linkedin.com/feed/update/urn:li:ugcPost:7515015074974007296/","business-analysis","False"
-"7515015075355688960","de","2026-10-11T12:00:00Z","Alles ist dringend. Was muss warten?","DEUTSCH
+#Leadership #BusinessAnalysis #GestionDeProjet #Priorisation","https://www.linkedin.com/feed/update/urn:li:ugcPost:7515015074974007296/","project-management","False"
+"7515015075355688960","de","2026-01-01T12:00:00Z","Alles ist dringend. Was muss warten?","DEUTSCH
 
 «Beginnen Sie jetzt mit dieser dringenden Aufgabe.»
 Welche bestehende Zusage soll dafür verschoben werden?
@@ -490,8 +578,8 @@ Eine neue Priorität verändert eine bestehende Zusage. Diese Zusage zu benennen
 
 Wer bestätigt bei einer neuen dringenden Anfrage, was dafür warten muss?
 
-#Leadership #BusinessAnalysis #Projektmanagement #Priorisierung","https://www.linkedin.com/feed/update/urn:li:ugcPost:7515015074361643008/","business-analysis","False"
-"7515015074013511680","en","2026-10-11T12:00:00Z","Everything is urgent. What should wait?","ENGLISH
+#Leadership #BusinessAnalysis #Projektmanagement #Priorisierung","https://www.linkedin.com/feed/update/urn:li:ugcPost:7515015074361643008/","project-management","False"
+"7515015074013511680","en","2026-01-01T12:00:00Z","Everything is urgent. What should wait?","ENGLISH
 
 “Start this urgent task now.”
 Which existing commitment should move?
@@ -513,8 +601,8 @@ A new priority changes an existing commitment. Naming that commitment makes the 
 
 When a new urgent request arrives, who agrees what will wait?
 
-#Leadership #BusinessAnalysis #ProjectManagement #Prioritisation","https://www.linkedin.com/feed/update/urn:li:ugcPost:7515015072591589376/","business-analysis","False"
-"7514872175330357248","it","2026-10-11T12:00:00Z","Un assistente individua la scadenza. L'utente non sa ancora che cosa fare.","ITALIANO
+#Leadership #BusinessAnalysis #ProjectManagement #Prioritisation","https://www.linkedin.com/feed/update/urn:li:ugcPost:7515015072591589376/","project-management","False"
+"7514872175330357248","it","2026-01-01T12:00:00Z","Un assistente individua la scadenza. L'utente non sa ancora che cosa fare.","ITALIANO
 
 Un assistente individua la scadenza. L'utente non sa ancora che cosa fare.
 
@@ -537,8 +625,8 @@ Lo storyboard allegato illustra questo concetto proposto.
 
 Che cosa testereste per prima: la capacità dell'assistente di estrarre la data o quella dell'utente di individuare il prossimo passo?
 
-#BusinessAnalysis #ProgettazioneProdotto #Prototipazione #TrasformazioneDigitale","https://www.linkedin.com/feed/update/urn:li:ugcPost:7514872174248267776/","ai-enablement","False"
-"7514872126558859264","de","2026-10-11T12:00:00Z","Ein Assistent erkennt die Frist. Der Nutzer weiß trotzdem nicht, was er tun soll.","DEUTSCH
+#BusinessAnalysis #ProgettazioneProdotto #Prototipazione #TrasformazioneDigitale","https://www.linkedin.com/feed/update/urn:li:ugcPost:7514872174248267776/","data-management","False"
+"7514872126558859264","de","2026-01-01T12:00:00Z","Ein Assistent erkennt die Frist. Der Nutzer weiß trotzdem nicht, was er tun soll.","DEUTSCH
 
 Ein Assistent erkennt die Frist. Der Nutzer weiß trotzdem nicht, was er tun soll.
 
@@ -561,8 +649,8 @@ Das beigefügte Storyboard veranschaulicht dieses vorgeschlagene Konzept.
 
 Was würden Sie zuerst testen: ob der Assistent das Datum erkennt oder ob der Nutzer den nächsten Schritt kennt?
 
-#BusinessAnalysis #Produktentwicklung #Prototyping #DigitaleTransformation","https://www.linkedin.com/feed/update/urn:li:ugcPost:7514872125300666387/","ai-enablement","False"
-"7514872047190044672","fr","2026-10-11T12:00:00Z","Un assistant repère l'échéance. L'utilisateur ne sait toujours pas quoi faire.","FRANÇAIS
+#BusinessAnalysis #Produktentwicklung #Prototyping #DigitaleTransformation","https://www.linkedin.com/feed/update/urn:li:ugcPost:7514872125300666387/","business-analysis","False"
+"7514872047190044672","fr","2026-01-01T12:00:00Z","Un assistant repère l'échéance. L'utilisateur ne sait toujours pas quoi faire.","FRANÇAIS
 
 Un assistant repère l'échéance. L'utilisateur ne sait toujours pas quoi faire.
 
@@ -585,8 +673,8 @@ Le storyboard joint illustre ce concept proposé.
 
 Que testeriez-vous d'abord : la capacité de l'assistant à extraire la date ou celle de l'utilisateur à identifier la prochaine étape ?
 
-#BusinessAnalysis #ConceptionProduit #Prototypage #TransformationNumérique","https://www.linkedin.com/feed/update/urn:li:ugcPost:7514872046011564032/","ai-enablement","False"
-"7514871968362467328","en","2026-10-11T12:00:00Z","An assistant finds the deadline. The user still does not know what to do.","ENGLISH
+#BusinessAnalysis #ConceptionProduit #Prototypage #TransformationNumérique","https://www.linkedin.com/feed/update/urn:li:ugcPost:7514872046011564032/","business-analysis","False"
+"7514871968362467328","en","2026-01-01T12:00:00Z","An assistant finds the deadline. The user still does not know what to do.","ENGLISH
 
 An assistant finds the deadline. The user still does not know what to do.
 
@@ -609,8 +697,8 @@ The attached storyboard illustrates this proposed concept.
 
 What would you test first: whether the assistant extracts the date, or whether the user knows the next step?
 
-#BusinessAnalysis #ProductThinking #Prototyping #DigitalTransformation","https://www.linkedin.com/feed/update/urn:li:ugcPost:7514871965212483584/","ai-enablement","False"
-"7514771648626188288","it","2026-10-10T12:00:00Z","Lo stesso errore nei dati compare in ogni rapporto mensile. Dove interverreste?","ITALIANO
+#BusinessAnalysis #ProductThinking #Prototyping #DigitalTransformation","https://www.linkedin.com/feed/update/urn:li:ugcPost:7514871965212483584/","business-analysis","False"
+"7514771648626188288","it","2026-01-01T12:00:00Z","Lo stesso errore nei dati compare in ogni rapporto mensile. Dove interverreste?","ITALIANO
 
 Lo stesso errore nei dati compare in ogni rapporto mensile. Dove interverreste?
 
@@ -628,7 +716,7 @@ Business Analysis e gestione dei dati: capire come il lavoro genera i dati, poi 
 Quale errore ricorrente nei dati affrontereste alla fonte?
 
 #BusinessAnalysis #QualitàDeiDati #GestioneDeiDati #MiglioramentoDeiProcessi","https://www.linkedin.com/feed/update/urn:li:share:7514771647963234305/","data-management","False"
-"7514771647367667712","de","2026-10-10T12:00:00Z","Derselbe Datenfehler erscheint in jedem Monatsbericht. Wo würden Sie ansetzen?","DEUTSCH
+"7514771647367667712","de","2026-01-01T12:00:00Z","Derselbe Datenfehler erscheint in jedem Monatsbericht. Wo würden Sie ansetzen?","DEUTSCH
 
 Derselbe Datenfehler erscheint in jedem Monatsbericht. Wo würden Sie ansetzen?
 
@@ -646,7 +734,7 @@ Hier sehe ich die Verbindung zwischen Business Analyse und Datenmanagement: vers
 Welchen wiederkehrenden Datenfehler würden Sie an seiner Quelle beheben?
 
 #BusinessAnalysis #Datenqualität #Datenmanagement #Prozessverbesserung","https://www.linkedin.com/feed/update/urn:li:share:7514771646650470402/","data-management","False"
-"7514771646872784896","fr","2026-10-10T12:00:00Z","La même erreur de données apparaît dans chaque rapport mensuel. Où interviendriez-vous ?","FRANÇAIS
+"7514771646872784896","fr","2026-01-01T12:00:00Z","La même erreur de données apparaît dans chaque rapport mensuel. Où interviendriez-vous ?","FRANÇAIS
 
 La même erreur de données apparaît dans chaque rapport mensuel. Où interviendriez-vous ?
 
@@ -664,7 +752,7 @@ C’est le lien que je vois entre l’analyse métier et la gestion des données
 Quelle erreur récurrente traiteriez-vous à la source ?
 
 #BusinessAnalysis #QualitéDesDonnées #GestionDesDonnées #AméliorationContinue","https://www.linkedin.com/feed/update/urn:li:share:7514771646038093824/","data-management","False"
-"7514771644964327424","en","2026-10-10T12:00:00Z","The same data error appears in every monthly report. Where would you intervene?","ENGLISH
+"7514771644964327424","en","2026-01-01T12:00:00Z","The same data error appears in every monthly report. Where would you intervene?","ENGLISH
 
 The same data error appears in every monthly report. Where would you intervene?
 
@@ -682,7 +770,7 @@ That is the connection I see between Business Analysis and Data Management: unde
 Which recurring data error would you address at its source?
 
 #BusinessAnalysis #DataQuality #DataManagement #ProcessImprovement","https://www.linkedin.com/feed/update/urn:li:share:7514771644297465856/","data-management","False"
-"7514094920861683713","it","2026-10-09T12:00:00Z","Due report possono mostrare risultati diversi senza contenere errori di calcolo.","ITALIANO
+"7514094920861683713","it","2026-01-01T12:00:00Z","Due report possono mostrare risultati diversi senza contenere errori di calcolo.","ITALIANO
 
 Due report possono mostrare risultati diversi senza contenere errori di calcolo.
 
@@ -705,8 +793,8 @@ Questo approccio collega Business Analysis, gestione dei dati e analisi dei sist
 
 Quale definizione crea più confusione nella vostra organizzazione: lo stato, il periodo di riferimento o l’unità conteggiata?
 
-#BusinessAnalysis #QualitàDeiDati #DataManagement #AnalisiDeiSistemi","https://www.linkedin.com/feed/update/urn:li:activity:7514094920861683713/","business-analysis","False"
-"7514094678636634112","de","2026-10-09T12:00:00Z","Zwei Berichte können unterschiedliche Ergebnisse zeigen, ohne dass einer einen Rechenfehler enthält.","DEUTSCH
+#BusinessAnalysis #QualitàDeiDati #DataManagement #AnalisiDeiSistemi","https://www.linkedin.com/feed/update/urn:li:activity:7514094920861683713/","data-management","False"
+"7514094678636634112","de","2026-01-01T12:00:00Z","Zwei Berichte können unterschiedliche Ergebnisse zeigen, ohne dass einer einen Rechenfehler enthält.","DEUTSCH
 
 Zwei Berichte können unterschiedliche Ergebnisse zeigen, ohne dass einer einen Rechenfehler enthält.
 
@@ -730,7 +818,7 @@ Dieser Ansatz verbindet Business Analysis mit Datenmanagement und Systemanalyse.
 Welche Definition verursacht in Ihrer Organisation die meisten Missverständnisse: der Status, der Berichtszeitraum oder die gezählte Einheit?
 
 #BusinessAnalysis #Datenqualität #Datenmanagement #Systemanalyse","https://www.linkedin.com/feed/update/urn:li:activity:7514094678636634112/","data-management","False"
-"7514094628988440576","fr","2026-10-09T12:00:00Z","Deux rapports peuvent afficher des résultats différents sans contenir d’erreur de calcul.","FRANÇAIS
+"7514094628988440576","fr","2026-01-01T12:00:00Z","Deux rapports peuvent afficher des résultats différents sans contenir d’erreur de calcul.","FRANÇAIS
 
 Deux rapports peuvent afficher des résultats différents sans contenir d’erreur de calcul.
 
@@ -754,7 +842,7 @@ Cette démarche relie l’analyse métier, la gestion des données et l’analys
 Quelle définition crée le plus de confusion dans votre organisation : le statut, la période de reporting ou l’unité comptée ?
 
 #BusinessAnalysis #QualitéDesDonnées #GestionDesDonnées #AnalyseDesSystèmes","https://www.linkedin.com/feed/update/urn:li:activity:7514094628988440576/","data-management","False"
-"7514094580510752768","en","2026-10-09T12:00:00Z","Two reports can disagree without either containing a calculation error.","ENGLISH
+"7514094580510752768","en","2026-01-01T12:00:00Z","Two reports can disagree without either containing a calculation error.","ENGLISH
 
 Two reports can disagree without either containing a calculation error.
 
@@ -778,7 +866,7 @@ This connects Business Analysis with Data Management and Systems Analysis, givin
 Which reporting definition causes the most confusion in your organization: status, reporting period or the unit being counted?
 
 #BusinessAnalysis #DataQuality #DataManagement #SystemsAnalysis","https://www.linkedin.com/feed/update/urn:li:activity:7514094580510752768/","data-management","False"
-"7513643856291184640","it","2026-10-07T12:00:00Z","I casi di eccezione","ITALIANO
+"7513643856291184640","it","2026-01-01T12:00:00Z","I casi di eccezione","ITALIANO
 
 Una richiesta viene presentata. La persona incaricata di approvarla non è disponibile. Che cosa succede dopo?
 
@@ -811,7 +899,7 @@ Un processo è pronto per l'utilizzo quotidiano quando le persone sanno come agi
 Quale caso di eccezione aggiungereste alla revisione di un processo di approvazione?
 
 #BusinessAnalysis #GestioneDeiRequisiti #AnalisiDeiProcessi #AnalisiDeiSistemi","https://www.linkedin.com/feed/update/urn:li:ugcPost:7513643855125196800/","business-analysis","False"
-"7513643564896063488","de","2026-10-07T12:00:00Z","Ausnahmefälle","DEUTSCH
+"7513643564896063488","de","2026-01-01T12:00:00Z","Ausnahmefälle","DEUTSCH
 
 Ein Antrag wird eingereicht. Die zuständige Person ist für die Freigabe nicht verfügbar. Was passiert als Nächstes?
 
@@ -843,8 +931,8 @@ Ein Prozess ist für den Arbeitsalltag bereit, wenn die Beteiligten wissen, was 
 
 Welchen Ausnahmefall würden Sie bei der Prüfung eines Freigabeprozesses ergänzen?
 
-#BusinessAnalysis #Anforderungsmanagement #Prozessanalyse #Systemanalyse","https://www.linkedin.com/feed/update/urn:li:ugcPost:7513643563860049920/","business-analysis","False"
-"7513643291276599296","fr","2026-10-07T12:00:00Z","Les cas d'exception","FRANÇAIS
+#BusinessAnalysis #Anforderungsmanagement #Prozessanalyse #Systemanalyse","https://www.linkedin.com/feed/update/urn:li:ugcPost:7513643563860049920/","ai-enablement","False"
+"7513643291276599296","fr","2026-01-01T12:00:00Z","Les cas d'exception","FRANÇAIS
 
 Une demande est soumise. La personne chargée de l'approuver est indisponible. Que se passe-t-il ensuite ?
 
@@ -877,7 +965,7 @@ Un processus est prêt pour une utilisation quotidienne lorsque chacun sait quoi
 Quel cas d'exception ajouteriez-vous à la revue d'un processus d'approbation ?
 
 #BusinessAnalysis #GestionDesExigences #AnalyseDesProcessus #AnalyseDesSystèmes","https://www.linkedin.com/feed/update/urn:li:ugcPost:7513643290173419522/","business-analysis","False"
-"7513642909473181696","en","2026-10-07T12:00:00Z","Exception paths","ENGLISH
+"7513642909473181696","en","2026-01-01T12:00:00Z","Exception paths","ENGLISH
 
 A request is submitted. The approver is unavailable. What happens next?
 
@@ -910,7 +998,7 @@ A workflow is ready for daily use when people know what to do when the usual pat
 Which exception would you add to an approval workflow review?
 
 #BusinessAnalysis #RequirementsManagement #ProcessAnalysis #SystemsAnalysis","https://www.linkedin.com/feed/update/urn:li:ugcPost:7513642906281451520/","business-analysis","False"
-"7513277634487902210","de","2026-10-06T12:00:00Z","RAG oder Fine-tuning?","DEUTSCH
+"7513277634487902210","de","2026-01-01T12:00:00Z","RAG oder Fine-tuning?","DEUTSCH
 
 Ein KI-Assistent gibt eine Antwort auf Grundlage einer veralteten Richtlinie. Sollte man das Modell neu trainieren oder ihm einen besseren Zugriff auf die aktuelle Richtlinie geben?
 
@@ -933,7 +1021,7 @@ Ich entwickle dieses KI-Wissen durch strukturiertes, praxisorientiertes Lernen u
 Was würden Sie zuerst klären: die Informationen, die der Assistent benötigt, oder die Art, wie er antworten soll?
 
 #BusinessAnalyse #KuenstlicheIntelligenz #RAG #KIEnablement","https://www.linkedin.com/feed/update/urn:li:share:7513277633221033984/","ai-enablement","False"
-"7513276920420077568","fr","2026-10-06T12:00:00Z","RAG ou fine-tuning?","FRANÇAIS
+"7513276920420077568","fr","2026-01-01T12:00:00Z","RAG ou fine-tuning?","FRANÇAIS
 
 Un assistant IA donne une réponse fondée sur une politique obsolète. Faut-il le réentraîner ou lui donner un meilleur accès à la politique actuelle?
 
@@ -956,7 +1044,7 @@ Je développe ces connaissances en IA par un apprentissage structuré et pratiqu
 Que clarifieriez-vous en premier: les informations dont l'assistant a besoin ou la manière dont il doit répondre?
 
 #BusinessAnalysis #IntelligenceArtificielle #RAG #AdoptionIA","https://www.linkedin.com/feed/update/urn:li:share:7513276919191117825/","ai-enablement","False"
-"7513276132759171072","en","2026-10-06T12:00:00Z","RAG or fine-tuning?","ENGLISH
+"7513276132759171072","en","2026-01-01T12:00:00Z","RAG or fine-tuning?","ENGLISH
 
 An AI assistant gives an outdated policy answer. Should you retrain it, or give it better access to the current policy?
 
@@ -979,7 +1067,7 @@ I am developing this AI knowledge through structured, hands-on learning, alongsi
 What would you clarify first: the information the assistant needs, or the way it should respond?
 
 #BusinessAnalysis #ArtificialIntelligence #RAG #AIEnablement","https://www.linkedin.com/feed/update/urn:li:share:7513276131433889792/","ai-enablement","False"
-"7512958554094436352","de","2026-10-05T12:00:00Z","Internationale Veranstaltungen. Koordinierte Umsetzung.","DEUTSCH
+"7512958554094436352","de","2026-01-01T12:00:00Z","Internationale Veranstaltungen. Koordinierte Umsetzung.","DEUTSCH
 
 Wird das Programm einer Veranstaltung geändert, müssen unter Umständen auch die Logistik, die Organisation vor Ort und die Teilnehmerinformationen angepasst werden.
 
@@ -1005,7 +1093,7 @@ Das ist eine praktische Verbindung zwischen Geschäftsanalyse und Projektmanagem
 Welche Abhängigkeit wird am ehesten übersehen, wenn mehrere Teams die Umsetzung koordinieren?
 
 #BusinessAnalysis #ProjectDelivery #StakeholderManagement #InternationalOperations","https://www.linkedin.com/feed/update/urn:li:ugcPost:7512958552982896640/","business-analysis","False"
-"7512958466764988416","fr","2026-10-05T12:00:00Z","Événements internationaux. Une réalisation coordonnée.","FRANÇAIS
+"7512958466764988416","fr","2026-01-01T12:00:00Z","Événements internationaux. Une réalisation coordonnée.","FRANÇAIS
 
 Modifiez le programme d'un événement, et vous devrez peut-être aussi adapter la logistique, l'organisation du lieu et les informations destinées aux participants.
 
@@ -1030,8 +1118,8 @@ C'est un lien concret entre l'analyse métier et la gestion de projet.
 
 Quelle dépendance risque-t-on le plus de négliger lorsque plusieurs équipes coordonnent la réalisation d'un projet ?
 
-#BusinessAnalysis #ProjectDelivery #StakeholderManagement #InternationalOperations","https://www.linkedin.com/feed/update/urn:li:ugcPost:7512958465464532993/","business-analysis","False"
-"7512958344907812865","en","2026-10-05T12:00:00Z","International events. Coordinated delivery.","ENGLISH
+#BusinessAnalysis #ProjectDelivery #StakeholderManagement #InternationalOperations","https://www.linkedin.com/feed/update/urn:li:ugcPost:7512958465464532993/","ai-enablement","False"
+"7512958344907812865","en","2026-01-01T12:00:00Z","International events. Coordinated delivery.","ENGLISH
 
 Change an event agenda, and you may also need to change the logistics, venue arrangements and participant information.
 
@@ -1056,8 +1144,8 @@ It is a practical connection between Business Analysis and Project Management.
 
 Which dependency is easiest to overlook when several teams coordinate delivery?
 
-#BusinessAnalysis #ProjectDelivery #StakeholderManagement #InternationalOperations","https://www.linkedin.com/feed/update/urn:li:ugcPost:7512958342802178048/","business-analysis","False"
-"7512602246438731776","de","2026-10-04T12:00:00Z","Eine Schulung ist erfolgreich, wenn Nutzer auch nach dem Weggang des Trainers sicher arbeiten können.","DEUTSCH
+#BusinessAnalysis #ProjectDelivery #StakeholderManagement #InternationalOperations","https://www.linkedin.com/feed/update/urn:li:ugcPost:7512958342802178048/","project-management","False"
+"7512602246438731776","de","2026-01-01T12:00:00Z","Eine Schulung ist erfolgreich, wenn Nutzer auch nach dem Weggang des Trainers sicher arbeiten können.","DEUTSCH
 
 Eine Schulung ist erfolgreich, wenn Nutzer auch nach dem Weggang des Trainers sicher arbeiten können.
 
@@ -1081,7 +1169,7 @@ Für einen Senior Business Analyst unterstützt Schulung das kontinuierliche Ler
 Was hilft Ihren Teams, nach einer formellen Schulung weiterzulernen?
 
 #BusinessAnalysis #Nutzerschulung #KontinuierlichesLernen #Nutzerakzeptanz #ChangeManagement","https://www.linkedin.com/feed/update/urn:li:share:7512602245771833345/","business-analysis","False"
-"7512602053433618432","fr","2026-10-04T12:00:00Z","Une session de formation réussit lorsque les utilisateurs peuvent travailler avec confiance après le départ du formateur.","FRANÇAIS
+"7512602053433618432","fr","2026-01-01T12:00:00Z","Une session de formation réussit lorsque les utilisateurs peuvent travailler avec confiance après le départ du formateur.","FRANÇAIS
 
 Une session de formation réussit lorsque les utilisateurs peuvent travailler avec confiance après le départ du formateur.
 
@@ -1105,7 +1193,7 @@ Pour un Senior Business Analyst, la formation soutient l'apprentissage continu. 
 Qu'est-ce qui aide vos équipes à poursuivre leur apprentissage après la formation initiale ?
 
 #BusinessAnalysis #FormationUtilisateurs #ApprentissageContinu #AdoptionUtilisateurs #GestionDuChangement","https://www.linkedin.com/feed/update/urn:li:share:7512602052779220992/","business-analysis","False"
-"7512601749799477248","en","2026-10-04T12:00:00Z","A training session succeeds when users can work confidently after the trainer leaves.","ENGLISH
+"7512601749799477248","en","2026-01-01T12:00:00Z","A training session succeeds when users can work confidently after the trainer leaves.","ENGLISH
 
 A training session succeeds when users can work confidently after the trainer leaves.
 
@@ -1128,8 +1216,8 @@ For a Senior Business Analyst, training supports continuous learning. It connect
 
 What helps your teams keep learning after formal training ends?
 
-#BusinessAnalysis #UserTraining #ContinuousLearning #UserAdoption #ChangeManagement","https://www.linkedin.com/feed/update/urn:li:share:7512601746993512449/","business-analysis","False"
-"7511712665665429504","de","2026-10-02T12:00:00Z","«Können wir noch ein einziges Feld hinzufügen?»","DEUTSCH
+#BusinessAnalysis #UserTraining #ContinuousLearning #UserAdoption #ChangeManagement","https://www.linkedin.com/feed/update/urn:li:share:7512601746993512449/","change-management","False"
+"7511712665665429504","de","2026-01-01T12:00:00Z","«Können wir noch ein einziges Feld hinzufügen?»","DEUTSCH
 
 «Können wir noch ein einziges Feld hinzufügen?»
 
@@ -1146,8 +1234,8 @@ Mein Vorgehen wäre, diese Abhängigkeiten zu prüfen, die Auswirkungen zu erkl�
 
 Welche «kleine Änderung» hat Sie gelehrt, bessere Fragen zu stellen?
 
-#BusinessAnalysis #Projektmanagement #Datenmanagement #ChangeManagement","https://www.linkedin.com/feed/update/urn:li:activity:7511712665665429504/","business-analysis","False"
-"7511712664339947520","fr","2026-10-02T12:00:00Z","« Peut-on ajouter juste un champ supplémentaire ? »","FRANÇAIS
+#BusinessAnalysis #Projektmanagement #Datenmanagement #ChangeManagement","https://www.linkedin.com/feed/update/urn:li:activity:7511712665665429504/","data-management","False"
+"7511712664339947520","fr","2026-01-01T12:00:00Z","« Peut-on ajouter juste un champ supplémentaire ? »","FRANÇAIS
 
 « Peut-on ajouter juste un champ supplémentaire ? »
 
@@ -1164,8 +1252,8 @@ Mon approche consisterait à examiner ces dépendances, expliquer les conséquen
 
 Quel « petit changement » vous a appris à poser de meilleures questions ?
 
-#BusinessAnalysis #GestionDeProjet #GestionDesDonnées #GestionDuChangement","https://www.linkedin.com/feed/update/urn:li:activity:7511712664339947520/","change-management","False"
-"7511712662964215808","en","2026-10-02T12:00:00Z","“Can we add just one more field?”","ENGLISH
+#BusinessAnalysis #GestionDeProjet #GestionDesDonnées #GestionDuChangement","https://www.linkedin.com/feed/update/urn:li:activity:7511712664339947520/","data-management","False"
+"7511712662964215808","en","2026-01-01T12:00:00Z","“Can we add just one more field?”","ENGLISH
 
 “Can we add just one more field?”
 
@@ -1182,8 +1270,8 @@ My approach would be to trace those dependencies, explain the impact and give th
 
 What “small change” has taught you to ask better questions?
 
-#BusinessAnalysis #ProjectManagement #DataManagement #ChangeManagement","https://www.linkedin.com/feed/update/urn:li:activity:7511712662964215808/","change-management","False"
-"7511547577406836736","de","2026-10-01T12:00:00Z","Wer darf diese Daten einsehen, ändern oder freigeben?","DEUTSCH
+#BusinessAnalysis #ProjectManagement #DataManagement #ChangeManagement","https://www.linkedin.com/feed/update/urn:li:activity:7511712662964215808/","data-management","False"
+"7511547577406836736","de","2026-01-01T12:00:00Z","Wer darf diese Daten einsehen, ändern oder freigeben?","DEUTSCH
 
 Wer darf diese Daten einsehen, ändern oder freigeben?
 
@@ -1205,8 +1293,8 @@ Wird eine Zugriffsregel erst nach der Einführung erkannt, kann dies für Nutzer
 
 Welche Frage zu Zugriffsrechten wird bei Anforderungen oder Tests am häufigsten übersehen?
 
-#BusinessAnalyse #Zugriffsrechte #Benutzerakzeptanztest #DatenGovernance","https://www.linkedin.com/feed/update/urn:li:activity:7511547577406836736/","business-analysis","False"
-"7511547387153219584","fr","2026-10-01T12:00:00Z","Qui doit pouvoir consulter, modifier ou approuver ces données ?","FRANÇAIS
+#BusinessAnalyse #Zugriffsrechte #Benutzerakzeptanztest #DatenGovernance","https://www.linkedin.com/feed/update/urn:li:activity:7511547577406836736/","data-management","False"
+"7511547387153219584","fr","2026-01-01T12:00:00Z","Qui doit pouvoir consulter, modifier ou approuver ces données ?","FRANÇAIS
 
 Qui doit pouvoir consulter, modifier ou approuver ces données ?
 
@@ -1228,8 +1316,8 @@ Une règle d'accès découverte après la mise en service peut devenir un probl�
 
 Quelle question sur les accès est le plus souvent oubliée lors de la définition des exigences ou des tests ?
 
-#AnalyseMétier #GestionDesAccès #RecetteUtilisateur #GouvernanceDesDonnées","https://www.linkedin.com/feed/update/urn:li:activity:7511547387153219584/","business-analysis","False"
-"7511546741062590464","en","2026-10-01T12:00:00Z","Who should be allowed to see, change or approve this data?","ENGLISH
+#AnalyseMétier #GestionDesAccès #RecetteUtilisateur #GouvernanceDesDonnées","https://www.linkedin.com/feed/update/urn:li:activity:7511547387153219584/","data-management","False"
+"7511546741062590464","en","2026-01-01T12:00:00Z","Who should be allowed to see, change or approve this data?","ENGLISH
 
 Who should be allowed to see, change or approve this data?
 
@@ -1251,9 +1339,9 @@ An access rule discovered after launch can become a user problem, a control prob
 
 Which access question is most often missed during requirements or testing?
 
-#BusinessAnalysis #AccessManagement #UAT #DataGovernance","https://www.linkedin.com/feed/update/urn:li:activity:7511546741062590464/","business-analysis","False"
-"7511109263315046401","en","2026-09-30T12:00:00Z","Image-only post without a published caption.","","https://www.linkedin.com/feed/update/urn:li:activity:7511109263315046401/","ai-enablement","False"
-"7511075951309430784","de","2026-09-30T12:00:00Z","Zwei Teams können sich über das Problem einig sein und trotzdem unterschiedliche Lösungen verlangen.","DEUTSCH
+#BusinessAnalysis #AccessManagement #UAT #DataGovernance","https://www.linkedin.com/feed/update/urn:li:activity:7511546741062590464/","data-management","False"
+"7511109263315046401","en","2026-01-01T12:00:00Z","Image-only post without a published caption.","","https://www.linkedin.com/feed/update/urn:li:activity:7511109263315046401/","business-analysis","False"
+"7511075951309430784","de","2026-01-01T12:00:00Z","Zwei Teams können sich über das Problem einig sein und trotzdem unterschiedliche Lösungen verlangen.","DEUTSCH
 
 Zwei Teams können sich über das Problem einig sein und trotzdem unterschiedliche Lösungen verlangen.
 
@@ -1274,7 +1362,7 @@ Eine Anforderung kann weiterbearbeitet werden, wenn der Zielkonflikt verstanden 
 Wie gehen Sie mit zwei berechtigten, aber widersprüchlichen Anforderungen von Stakeholdern um?
 
 #BusinessAnalyse #Anforderungsmanagement #StakeholderManagement #Systemanalyse","https://www.linkedin.com/feed/update/urn:li:ugcPost:7511075950248345600/","business-analysis","False"
-"7511075527789776896","fr","2026-09-30T12:00:00Z","Deux équipes peuvent s'accorder sur le problème tout en demandant des solutions différentes.","FRANÇAIS
+"7511075527789776896","fr","2026-01-01T12:00:00Z","Deux équipes peuvent s'accorder sur le problème tout en demandant des solutions différentes.","FRANÇAIS
 
 Deux équipes peuvent s'accorder sur le problème tout en demandant des solutions différentes.
 
@@ -1295,7 +1383,7 @@ Une exigence peut avancer lorsque le compromis est compris et que la décision a
 Comment gérez-vous deux demandes de parties prenantes qui sont toutes deux légitimes, mais incompatibles ?
 
 #AnalyseMetier #GestionDesExigences #PartiesPrenantes #AnalyseDesSystemes","https://www.linkedin.com/feed/update/urn:li:ugcPost:7511075526627762176/","business-analysis","False"
-"7511067098702426113","en","2026-09-30T12:00:00Z","Two teams can agree on the problem and still request different solutions.","ENGLISH
+"7511067098702426113","en","2026-01-01T12:00:00Z","Two teams can agree on the problem and still request different solutions.","ENGLISH
 
 Two teams can agree on the problem and still request different solutions.
 
@@ -1316,7 +1404,7 @@ A requirement is ready to move forward when the trade-off is understood and the 
 How do you handle two valid but conflicting stakeholder requests?
 
 #BusinessAnalysis #RequirementsManagement #StakeholderAlignment #SystemsAnalysis","https://www.linkedin.com/feed/update/urn:li:ugcPost:7511067095539912705/","business-analysis","False"
-"7510793156100055041","de","2026-09-29T12:00:00Z","Eine KI-Demo kann beeindrucken, ohne dass die Lösung für den operativen Einsatz bereit ist.","DEUTSCH
+"7510793156100055041","de","2026-01-01T12:00:00Z","Eine KI-Demo kann beeindrucken, ohne dass die Lösung für den operativen Einsatz bereit ist.","DEUTSCH
 
 Eine KI-Demo kann beeindrucken, ohne dass die Lösung für den operativen Einsatz bereit ist.
 
@@ -1338,7 +1426,7 @@ Eine überzeugende Antwort in einer Demo beweist nur wenig. Vertrauen im Betrieb
 Welches Prüfkriterium sollte mehr Beachtung finden, bevor ein KI-Pilot in den operativen Einsatz geht?
 
 #BusinessAnalyse #KIEvaluierung #VerantwortungsvolleKI #DigitaleTransformation #Systemanalyse","https://www.linkedin.com/feed/update/urn:li:share:7510793154913034240/","ai-enablement","False"
-"7510792740561952769","fr","2026-09-29T12:00:00Z","Une démonstration d'IA peut impressionner sans que la solution soit prête pour un usage opérationnel.","FRANÇAIS
+"7510792740561952769","fr","2026-01-01T12:00:00Z","Une démonstration d'IA peut impressionner sans que la solution soit prête pour un usage opérationnel.","FRANÇAIS
 
 Une démonstration d'IA peut impressionner sans que la solution soit prête pour un usage opérationnel.
 
@@ -1359,8 +1447,8 @@ Une seule réponse convaincante lors d'une démonstration prouve peu de choses. 
 
 Quel critère devrait être examiné plus attentivement avant le passage d'un pilote d'IA à l'exploitation ?
 
-#AnalyseMétier #ÉvaluationIA #IAResponsable #TransformationNumérique #AnalyseDesSystèmes","https://www.linkedin.com/feed/update/urn:li:share:7510792739370827776/","ai-enablement","False"
-"7510792349250162688","en","2026-09-29T12:00:00Z","An AI demo can look impressive and still be unready for operational use.","ENGLISH
+#AnalyseMétier #ÉvaluationIA #IAResponsable #TransformationNumérique #AnalyseDesSystèmes","https://www.linkedin.com/feed/update/urn:li:share:7510792739370827776/","business-analysis","False"
+"7510792349250162688","en","2026-01-01T12:00:00Z","An AI demo can look impressive and still be unready for operational use.","ENGLISH
 
 An AI demo can look impressive and still be unready for operational use.
 
@@ -1382,7 +1470,7 @@ One convincing answer in a demonstration proves very little. Operational trust r
 Which evaluation criterion should receive more attention before an AI pilot moves into operational use?
 
 #BusinessAnalysis #AIEvaluation #ResponsibleAI #DigitalTransformation #SystemsAnalysis","https://www.linkedin.com/feed/update/urn:li:share:7510792346205274112/","ai-enablement","False"
-"7510000087759249408","de","2026-09-27T12:00:00Z","Der Widerstand von Nutzern kann eine Lücke in der Umsetzung sichtbar machen, bevor daraus ein Akzeptanzproblem entsteht.","DEUTSCH
+"7510000087759249408","de","2026-01-01T12:00:00Z","Der Widerstand von Nutzern kann eine Lücke in der Umsetzung sichtbar machen, bevor daraus ein Akzeptanzproblem entsteht.","DEUTSCH
 
 Der Widerstand von Nutzern kann eine Lücke in der Umsetzung sichtbar machen, bevor daraus ein Akzeptanzproblem entsteht.
 
@@ -1409,7 +1497,7 @@ Für mich ist Widerstand ein frühes Signal für eine genauere Analyse.
 Was konnte Ihre Organisation durch den Widerstand von Nutzern erkennen?
 
 #BusinessAnalysis #ChangeManagement #Benutzerakzeptanz #Stakeholdermanagement #DigitaleTransformation","https://www.linkedin.com/feed/update/urn:li:share:7510000086400040960/","change-management","False"
-"7509999879448997888","fr","2026-09-27T12:00:00Z","La résistance des utilisateurs peut révéler une lacune dans la mise en œuvre avant qu'elle ne compromette l'adoption.","FRANÇAIS
+"7509999879448997888","fr","2026-01-01T12:00:00Z","La résistance des utilisateurs peut révéler une lacune dans la mise en œuvre avant qu'elle ne compromette l'adoption.","FRANÇAIS
 
 La résistance des utilisateurs peut révéler une lacune dans la mise en œuvre avant qu'elle ne compromette l'adoption.
 
@@ -1436,7 +1524,7 @@ Pour moi, la résistance constitue un signal précoce à analyser.
 Qu'est-ce que la résistance des utilisateurs a permis à votre organisation de découvrir?
 
 #BusinessAnalysis #GestionDuChangement #AdoptionUtilisateurs #GestionDesPartiesPrenantes #TransformationDigitale","https://www.linkedin.com/feed/update/urn:li:share:7509999878241189889/","change-management","False"
-"7509999222721712128","en","2026-09-27T12:00:00Z","User resistance can reveal a delivery gap before it becomes an adoption problem.","ENGLISH
+"7509999222721712128","en","2026-01-01T12:00:00Z","User resistance can reveal a delivery gap before it becomes an adoption problem.","ENGLISH
 
 User resistance can reveal a delivery gap before it becomes an adoption problem.
 
@@ -1462,8 +1550,8 @@ For me, resistance is an early signal for deeper analysis.
 
 What has user resistance helped your organization discover?
 
-#BusinessAnalysis #ChangeManagement #UserAdoption #StakeholderManagement #DigitalTransformation","https://www.linkedin.com/feed/update/urn:li:share:7509999219663937536/","change-management","False"
-"7509296587924385793","de","2026-09-25T12:00:00Z","Ein gelber Projektstatus sollte eine klare Entscheidung zur Stabilisierung auslösen.","DEUTSCH
+#BusinessAnalysis #ChangeManagement #UserAdoption #StakeholderManagement #DigitalTransformation","https://www.linkedin.com/feed/update/urn:li:share:7509999219663937536/","data-management","False"
+"7509296587924385793","de","2026-01-01T12:00:00Z","Ein gelber Projektstatus sollte eine klare Entscheidung zur Stabilisierung auslösen.","DEUTSCH
 
 Ein gelber Projektstatus sollte eine klare Entscheidung zur Stabilisierung auslösen.
 
@@ -1488,8 +1576,8 @@ Sie hilft Teams, Probleme früh zu erkennen, Verantwortung zuzuweisen und zu han
 
 Welche Informationen helfen Ihnen bei der Entscheidung, ob ein gelbes Projekt wieder grün werden kann?
 
-#Projektmanagement #Projektsteuerung #BusinessAnalysis #Risikomanagement #DigitaleTransformation","https://www.linkedin.com/feed/update/urn:li:ugcPost:7509296587924385793/","project-management","False"
-"7509296375231229952","fr","2026-09-25T12:00:00Z","Un statut de projet orange doit déclencher une décision claire de redressement.","FRANÇAIS
+#Projektmanagement #Projektsteuerung #BusinessAnalysis #Risikomanagement #DigitaleTransformation","https://www.linkedin.com/feed/update/urn:li:ugcPost:7509296587924385793/","data-management","False"
+"7509296375231229952","fr","2026-01-01T12:00:00Z","Un statut de projet orange doit déclencher une décision claire de redressement.","FRANÇAIS
 
 Un statut de projet orange doit déclencher une décision claire de redressement.
 
@@ -1514,8 +1602,8 @@ Elle aide les équipes à identifier rapidement les problèmes, à désigner les
 
 Quelles informations vous aident à décider si un projet au statut orange peut revenir au vert?
 
-#GestionDeProjet #PilotageDeProjet #BusinessAnalysis #GestionDesRisques #TransformationDigitale","https://www.linkedin.com/feed/update/urn:li:ugcPost:7509296375231229952/","ai-enablement","False"
-"7509296128279056384","en","2026-09-25T12:00:00Z","An amber project status should trigger a clear recovery decision.","ENGLISH
+#GestionDeProjet #PilotageDeProjet #BusinessAnalysis #GestionDesRisques #TransformationDigitale","https://www.linkedin.com/feed/update/urn:li:ugcPost:7509296375231229952/","data-management","False"
+"7509296128279056384","en","2026-01-01T12:00:00Z","An amber project status should trigger a clear recovery decision.","ENGLISH
 
 An amber project status should trigger a clear recovery decision.
 
@@ -1540,8 +1628,8 @@ It helps teams identify problems early, assign ownership and act before the impa
 
 What information helps you decide whether an amber project can return to green?
 
-#ProjectManagement #ProjectDelivery #BusinessAnalysis #RiskManagement #DigitalTransformation","https://www.linkedin.com/feed/update/urn:li:ugcPost:7509296128279056384/","project-management","False"
-"7509112910296653824","de","2026-09-25T12:00:00Z","Zwei Dashboards können denselben KPI anzeigen und dennoch unterschiedliche Geschichten erzählen.","DEUTSCH
+#ProjectManagement #ProjectDelivery #BusinessAnalysis #RiskManagement #DigitalTransformation","https://www.linkedin.com/feed/update/urn:li:ugcPost:7509296128279056384/","data-management","False"
+"7509112910296653824","de","2026-01-01T12:00:00Z","Zwei Dashboards können denselben KPI anzeigen und dennoch unterschiedliche Geschichten erzählen.","DEUTSCH
 
 Zwei Dashboards können denselben KPI anzeigen und dennoch unterschiedliche Geschichten erzählen.
 
@@ -1570,7 +1658,7 @@ Es gibt allen Stakeholdern die Sicherheit, dass dieselbe Zahl für alle dieselbe
 Welcher KPI sorgt in Ihrer Organisation für die meisten Diskussionen, weil seine Definition unklar ist?
 
 #Datenmanagement #DatenGovernance #BusinessAnalysis #BusinessIntelligence #DigitaleTransformation","https://www.linkedin.com/feed/update/urn:li:activity:7509112910296653824/","data-management","False"
-"7509112774564782080","fr","2026-09-25T12:00:00Z","Deux tableaux de bord peuvent présenter le même indicateur tout en racontant des histoires différentes.","FRANÇAIS
+"7509112774564782080","fr","2026-01-01T12:00:00Z","Deux tableaux de bord peuvent présenter le même indicateur tout en racontant des histoires différentes.","FRANÇAIS
 
 Deux tableaux de bord peuvent présenter le même indicateur clé de performance tout en racontant des histoires différentes.
 
@@ -1599,7 +1687,7 @@ Il donne à chaque partie prenante la certitude qu'un même chiffre signifie la 
 Quel indicateur suscite le plus de discussions dans votre organisation parce que sa définition manque de clarté?
 
 #GestionDesDonnées #GouvernanceDesDonnées #BusinessAnalysis #BusinessIntelligence #TransformationDigitale","https://www.linkedin.com/feed/update/urn:li:activity:7509112774564782080/","data-management","False"
-"7509112606255685632","en","2026-09-25T12:00:00Z","Two dashboards can display the same KPI and still tell different stories.","ENGLISH
+"7509112606255685632","en","2026-01-01T12:00:00Z","Two dashboards can display the same KPI and still tell different stories.","ENGLISH
 
 Two dashboards can display the same KPI and still tell different stories.
 
@@ -1628,7 +1716,7 @@ It gives every stakeholder confidence that the same number means the same thing.
 Which KPI in your organization creates the most discussion because its definition is unclear?
 
 #DataManagement #DataGovernance #BusinessAnalysis #BusinessIntelligence #DigitalTransformation","https://www.linkedin.com/feed/update/urn:li:activity:7509112606255685632/","data-management","False"
-"7508567317513961472","de","2026-09-23T12:00:00Z","Eine Anforderung kann dokumentiert und dennoch missverstanden werden.","DEUTSCH
+"7508567317513961472","de","2026-01-01T12:00:00Z","Eine Anforderung kann dokumentiert und dennoch missverstanden werden.","DEUTSCH
 
 Eine Anforderung kann dokumentiert und dennoch missverstanden werden.
 
@@ -1664,7 +1752,7 @@ Wenn der Grund einer Anforderung während der gesamten Umsetzung sichtbar bleibt
 Wo bricht die Nachverfolgbarkeit von Anforderungen in Ihren Projekten am häufigsten ab?
 
 #BusinessAnalysis #Anforderungsmanagement #UAT #Systemanalyse #Projektmanagement","https://www.linkedin.com/feed/update/urn:li:activity:7508567317513961472/","business-analysis","False"
-"7508567075733368832","fr","2026-09-23T12:00:00Z","Une exigence peut être documentée et pourtant rester mal comprise.","FRANÇAIS
+"7508567075733368832","fr","2026-01-01T12:00:00Z","Une exigence peut être documentée et pourtant rester mal comprise.","FRANÇAIS
 
 Une exigence peut être documentée et pourtant rester mal comprise.
 
@@ -1700,7 +1788,7 @@ Lorsque la raison d'une exigence reste visible tout au long de la livraison, les
 À quel moment la traçabilité des exigences se rompt-elle le plus souvent dans vos projets?
 
 #BusinessAnalysis #GestionDesExigences #TestsUtilisateurs #AnalyseDesSystèmes #GestionDeProjet","https://www.linkedin.com/feed/update/urn:li:activity:7508567075733368832/","business-analysis","False"
-"7508564123060748288","en","2026-09-23T12:00:00Z","A requirement can be documented and still be misunderstood.","ENGLISH
+"7508564123060748288","en","2026-01-01T12:00:00Z","A requirement can be documented and still be misunderstood.","ENGLISH
 
 A requirement can be documented and still be misunderstood.
 
@@ -1736,7 +1824,7 @@ When the reason behind a requirement remains visible throughout delivery, teams 
 Where does requirements traceability most often break down in your projects?
 
 #BusinessAnalysis #RequirementsManagement #UAT #SystemsAnalysis #ProjectDelivery","https://www.linkedin.com/feed/update/urn:li:activity:7508564123060748288/","business-analysis","False"
-"7507423156723249152","de","2026-09-20T12:00:00Z","Lange Lernsitzungen sollten nicht wiederholt durch vermeidbare Wiedergabeunterbrechungen gestört werden.","DEUTSCH
+"7507423156723249152","de","2026-01-01T12:00:00Z","Lange Lernsitzungen sollten nicht wiederholt durch vermeidbare Wiedergabeunterbrechungen gestört werden.","DEUTSCH
 
 Lange Lernsitzungen sollten nicht wiederholt durch vermeidbare Wiedergabeunterbrechungen gestört werden.
 
@@ -1769,7 +1857,7 @@ Das Projekt zeigt, wie Business Analysis, Systemanalyse, Projektmanagement und v
 Welche wiederkehrende digitale Unterbrechung sollte Technologie Ihrer Meinung nach verantwortungsvoll lösen?
 
 #BusinessAnalysis #DigitaleTransformation #KIEinführung #Nutzererfahrung #Produktentwicklung","https://www.linkedin.com/feed/update/urn:li:activity:7507423156723249152/","ai-enablement","False"
-"7507422963332296704","fr","2026-09-20T12:00:00Z","Les longues sessions d'apprentissage ne devraient pas être interrompues à répétition par des arrêts de lecture évitables.","FRANÇAIS
+"7507422963332296704","fr","2026-01-01T12:00:00Z","Les longues sessions d'apprentissage ne devraient pas être interrompues à répétition par des arrêts de lecture évitables.","FRANÇAIS
 
 Les longues sessions d'apprentissage ne devraient pas être interrompues à répétition par des arrêts de lecture évitables.
 
@@ -1802,7 +1890,7 @@ Ce projet montre comment la Business Analysis, l'analyse des systèmes, la gesti
 Quelle interruption numérique récurrente aimeriez-vous que la technologie résolve de manière responsable?
 
 #BusinessAnalysis #TransformationDigitale #AdoptionIA #ExpérienceUtilisateur #DéveloppementProduit","https://www.linkedin.com/feed/update/urn:li:activity:7507422963332296704/","ai-enablement","False"
-"7507422794121609216","en","2026-09-20T12:00:00Z","Long learning sessions should not be repeatedly disrupted by avoidable playback interruptions.","ENGLISH
+"7507422794121609216","en","2026-01-01T12:00:00Z","Long learning sessions should not be repeatedly disrupted by avoidable playback interruptions.","ENGLISH
 
 Long learning sessions should not be repeatedly disrupted by avoidable playback interruptions.
 
@@ -1834,8 +1922,8 @@ The project demonstrates how Business Analysis, Systems Analysis, Project Manage
 
 What recurring digital interruption would you most like technology to solve responsibly?
 
-#BusinessAnalysis #DigitalTransformation #AIEnablement #UserExperience #ProductDevelopment","https://www.linkedin.com/feed/update/urn:li:activity:7507422794121609216/","ai-enablement","False"
-"7507155649789722624","de","2026-09-19T12:00:00Z","Ein reales Problem wurde zu einer konfigurierbaren Multi-City-Uhr-Anwendung.","DEUTSCH
+#BusinessAnalysis #DigitalTransformation #AIEnablement #UserExperience #ProductDevelopment","https://www.linkedin.com/feed/update/urn:li:activity:7507422794121609216/","digital-transformation","False"
+"7507155649789722624","de","2026-01-01T12:00:00Z","Ein reales Problem wurde zu einer konfigurierbaren Multi-City-Uhr-Anwendung.","DEUTSCH
 
 Während meines Aufenthalts in Australien musste ich Besprechungen in fünf internationalen Städten koordinieren.
 
@@ -1864,7 +1952,7 @@ Aus einer realen Situation wurden ein klar definiertes Problem, eindeutige Anfor
 Welches alltägliche Problem würden Sie gern mit einer einfachen digitalen Anwendung lösen?
 
 #BusinessAnalysis #Systemanalyse #DigitaleTransformation #AndroidEntwicklung #KIAnwendung","https://www.linkedin.com/feed/update/urn:li:activity:7507155649789722624/","ai-enablement","False"
-"7507155377118130176","fr","2026-09-19T12:00:00Z","Un problème réel est devenu une application d'horloge multiville configurable.","FRANÇAIS
+"7507155377118130176","fr","2026-01-01T12:00:00Z","Un problème réel est devenu une application d'horloge multiville configurable.","FRANÇAIS
 
 Lors de mon séjour en Australie, je devais coordonner des réunions dans cinq villes internationales.
 
@@ -1892,8 +1980,8 @@ Une situation réelle est devenue un problème défini, des exigences claires, u
 
 Quel problème quotidien aimeriez-vous résoudre grâce à une application numérique simple?
 
-#BusinessAnalysis #AnalyseDesSystèmes #TransformationDigitale #DéveloppementAndroid #AdoptionIA","https://www.linkedin.com/feed/update/urn:li:activity:7507155377118130176/","ai-enablement","False"
-"7507155139309330433","en","2026-09-19T12:00:00Z","A real problem became a configurable multi-city clock application.","ENGLISH
+#BusinessAnalysis #AnalyseDesSystèmes #TransformationDigitale #DéveloppementAndroid #AdoptionIA","https://www.linkedin.com/feed/update/urn:li:activity:7507155377118130176/","digital-transformation","False"
+"7507155139309330433","en","2026-01-01T12:00:00Z","A real problem became a configurable multi-city clock application.","ENGLISH
 
 While I was in Australia, I needed to coordinate meetings across five international cities.
 
@@ -1921,8 +2009,8 @@ A real situation became a defined problem, clear requirements, a configurable ap
 
 What everyday problem would you like to solve with a simple digital application?
 
-#BusinessAnalysis #SystemsAnalysis #DigitalTransformation #AndroidDevelopment #AIEnablement","https://www.linkedin.com/feed/update/urn:li:activity:7507155139309330433/","ai-enablement","False"
-"7506695563241930752","de","2026-09-18T12:00:00Z","950 000 USD jährlich in Genf eingespart. Rund 600 Prüferstunden jährlich bei der WIPO eingespart.","DEUTSCH
+#BusinessAnalysis #SystemsAnalysis #DigitalTransformation #AndroidDevelopment #AIEnablement","https://www.linkedin.com/feed/update/urn:li:activity:7507155139309330433/","digital-transformation","False"
+"7506695563241930752","de","2026-01-01T12:00:00Z","950 000 USD jährlich in Genf eingespart. Rund 600 Prüferstunden jährlich bei der WIPO eingespart.","DEUTSCH
 
 950 000 USD jährlich in Genf eingespart. Rund 600 Prüferstunden jährlich bei der WIPO eingespart.
 
@@ -1939,8 +2027,8 @@ Meine mit KI-Unterstützung erstellte Website: www.vinodgautam.ch.
 
 Sie suchen jemanden, der Geschäftsanforderungen, Daten und praktische Umsetzung verbindet? Lassen Sie uns sprechen.
 
-#BusinessAnalysis #Prozessautomatisierung #Datenanalyse #PraktischeKI","https://www.linkedin.com/feed/update/urn:li:activity:7506695563241930752/","data-management","False"
-"7506695562386345984","fr","2026-09-18T12:00:00Z","950 000 USD économisés chaque année à Genève. Environ 600 heures de travail d’examen économisées chaque année à l’OMPI.","FRANÇAIS
+#BusinessAnalysis #Prozessautomatisierung #Datenanalyse #PraktischeKI","https://www.linkedin.com/feed/update/urn:li:activity:7506695563241930752/","ai-enablement","False"
+"7506695562386345984","fr","2026-01-01T12:00:00Z","950 000 USD économisés chaque année à Genève. Environ 600 heures de travail d’examen économisées chaque année à l’OMPI.","FRANÇAIS
 
 950 000 USD économisés chaque année à Genève. Environ 600 heures de travail d’examen économisées chaque année à l’OMPI.
 
@@ -1957,8 +2045,8 @@ Mon site créé avec l’aide de l’IA : www.vinodgautam.ch.
 
 Vous recherchez quelqu’un qui relie besoins métier, données et réalisation concrète ? Échangeons.
 
-#BusinessAnalysis #AutomatisationDesProcessus #AnalyseDeDonnées #IA","https://www.linkedin.com/feed/update/urn:li:activity:7506695562386345984/","data-management","False"
-"7506695560028962817","en","2026-09-18T12:00:00Z","USD 950,000 saved annually in Geneva. Approximately 600 examiner hours saved annually at WIPO.","ENGLISH
+#BusinessAnalysis #AutomatisationDesProcessus #AnalyseDeDonnées #IA","https://www.linkedin.com/feed/update/urn:li:activity:7506695562386345984/","ai-enablement","False"
+"7506695560028962817","en","2026-01-01T12:00:00Z","USD 950,000 saved annually in Geneva. Approximately 600 examiner hours saved annually at WIPO.","ENGLISH
 
 USD 950,000 saved annually in Labcorp, Geneva. 
 Approximately 600 examiner hours saved annually at WIPO.
@@ -1976,8 +2064,8 @@ My AI-assisted website: www.vinodgautam.ch.
 
 Looking for someone who connects business needs, data and practical delivery? Let’s talk.
 
-#BusinessAnalysis #ProcessAutomation #DataAnalytics #PracticalAI","https://www.linkedin.com/feed/update/urn:li:activity:7506695560028962817/","data-management","False"
-"7506330784522264576","de","2026-09-17T12:00:00Z","43 % höhere Produktivität. 28 % bessere Qualität.","DEUTSCH
+#BusinessAnalysis #ProcessAutomation #DataAnalytics #PracticalAI","https://www.linkedin.com/feed/update/urn:li:activity:7506695560028962817/","ai-enablement","False"
+"7506330784522264576","de","2026-01-01T12:00:00Z","43 % höhere Produktivität. 28 % bessere Qualität.","DEUTSCH
 
 43 % höhere Produktivität. 28 % bessere Qualität.
 
@@ -1991,8 +2079,8 @@ Die sechs Folien zeigen die Arbeit hinter diesen Ergebnissen.
 
 Sie suchen Unterstützung in Business Analysis oder Prozessverbesserung? Lassen Sie uns ins Gespräch kommen.
 
-#BusinessAnalysis #Prozessautomatisierung #Prozessverbesserung","https://www.linkedin.com/feed/update/urn:li:activity:7506330784522264576/","business-analysis","False"
-"7506330783964364800","fr","2026-09-17T12:00:00Z","43 % de productivité en plus. Une amélioration de la qualité de 28 %.","FRANÇAIS
+#BusinessAnalysis #Prozessautomatisierung #Prozessverbesserung","https://www.linkedin.com/feed/update/urn:li:activity:7506330784522264576/","data-management","False"
+"7506330783964364800","fr","2026-01-01T12:00:00Z","43 % de productivité en plus. Une amélioration de la qualité de 28 %.","FRANÇAIS
 
 43 % de productivité en plus. Une amélioration de la qualité de 28 %.
 
@@ -2006,8 +2094,8 @@ Les six diapositives présentent le travail derrière ces résultats.
 
 Vous recrutez en Business Analysis ou en amélioration des processus ? Échangeons.
 
-#BusinessAnalysis #AutomatisationDesProcessus #AméliorationDesProcessus","https://www.linkedin.com/feed/update/urn:li:activity:7506330783964364800/","business-analysis","False"
-"7506239868402900993","en","2026-09-17T12:00:00Z","43% higher productivity. 28% better quality.","ENGLISH
+#BusinessAnalysis #AutomatisationDesProcessus #AméliorationDesProcessus","https://www.linkedin.com/feed/update/urn:li:activity:7506330783964364800/","ai-enablement","False"
+"7506239868402900993","en","2026-01-01T12:00:00Z","43% higher productivity. 28% better quality.","ENGLISH
 
 43% higher productivity. 28% better quality.
 
@@ -2021,8 +2109,8 @@ The six slides show the work behind those results.
 
 Recruiting for Business Analysis or process improvement? Let's connect.
 
-#BusinessAnalysis #ProcessAutomation #ProcessImprovement","https://www.linkedin.com/feed/update/urn:li:activity:7506239868402900993/","business-analysis","False"
-"7506223539763650560","de","2026-09-17T12:00:00Z","Globale Teamführung und Kundenkoordination","DEUTSCH
+#BusinessAnalysis #ProcessAutomation #ProcessImprovement","https://www.linkedin.com/feed/update/urn:li:activity:7506239868402900993/","data-management","False"
+"7506223539763650560","de","2026-01-01T12:00:00Z","Globale Teamführung und Kundenkoordination","DEUTSCH
 
 Bei Labcorp, ehemals Covance Central Laboratory Services SA, leitete ich ein globales Team von sechs Mitarbeitenden, das sich der Kundenkoordination für eines der weltweit führenden Pharmaunternehmen widmete.
 
@@ -2044,8 +2132,8 @@ Diese Perspektive bringe ich in meine Arbeit als Senior Business Analyst ein und
 
 Was hilft Ihren Teams, den Überblick zu behalten, wenn mehrere Abteilungen und Standorte zusammenarbeiten müssen?
 
-#Leadership #BusinessAnalysis #Projektmanagement #Stakeholdermanagement #Teamkoordination","https://www.linkedin.com/feed/update/urn:li:activity:7506223539763650560/","project-management","False"
-"7506223536429105152","fr","2026-09-17T12:00:00Z","Leadership et coordination client internationale","FRANÇAIS
+#Leadership #BusinessAnalysis #Projektmanagement #Stakeholdermanagement #Teamkoordination","https://www.linkedin.com/feed/update/urn:li:activity:7506223539763650560/","business-analysis","False"
+"7506223536429105152","fr","2026-01-01T12:00:00Z","Leadership et coordination client internationale","FRANÇAIS
 
 Chez Labcorp, anciennement Covance Central Laboratory Services SA, j'ai dirigé une équipe internationale dédiée de six collègues chargés de la coordination client pour l'une des principales entreprises pharmaceutiques mondiales.
 
@@ -2067,8 +2155,8 @@ J'apporte cette perspective à mon travail de Senior Business Analyst, en associ
 
 Qu'est-ce qui aide vos équipes à maintenir cette clarté lorsque plusieurs départements et sites doivent travailler ensemble ?
 
-#Leadership #BusinessAnalysis #GestionDeProjet #GestionDesPartiesPrenantes #CoordinationDesÉquipes","https://www.linkedin.com/feed/update/urn:li:activity:7506223536429105152/","project-management","False"
-"7506223534713704448","en","2026-09-17T12:00:00Z","Global Team Leadership and Client Coordination","ENGLISH
+#Leadership #BusinessAnalysis #GestionDeProjet #GestionDesPartiesPrenantes #CoordinationDesÉquipes","https://www.linkedin.com/feed/update/urn:li:activity:7506223536429105152/","ai-enablement","False"
+"7506223534713704448","en","2026-01-01T12:00:00Z","Global Team Leadership and Client Coordination","ENGLISH
 
 At Labcorp, formerly Covance Central Laboratory Services SA, I led a dedicated global client-coordination team of six colleagues supporting one of the world's leading pharmaceutical companies.
 
@@ -2090,8 +2178,8 @@ I bring this perspective to my work as a Senior Business Analyst, combining stak
 
 What helps your teams maintain clarity when several departments and locations must work together?
 
-#Leadership #BusinessAnalysis #ProjectManagement #StakeholderManagement #TeamCoordination","https://www.linkedin.com/feed/update/urn:li:activity:7506223534713704448/","project-management","False"
-"7505634283320131584","de","2026-09-15T12:00:00Z","Benutzerschulungen können aufzeigen, was in einem Anforderungsdokument fehlt.","DEUTSCH
+#Leadership #BusinessAnalysis #ProjectManagement #StakeholderManagement #TeamCoordination","https://www.linkedin.com/feed/update/urn:li:activity:7506223534713704448/","business-analysis","False"
+"7505634283320131584","de","2026-01-01T12:00:00Z","Benutzerschulungen können aufzeigen, was in einem Anforderungsdokument fehlt.","DEUTSCH
 
 Benutzerschulungen können aufzeigen, was in einem Anforderungsdokument fehlt.
 
@@ -2112,8 +2200,8 @@ In meiner KI-Weiterbildung möchte ich untersuchen, wie sich Benutzerfeedback st
 
 Was haben Sie durch Benutzerschulungen über einen Prozess oder ein System herausgefunden?
 
-#BusinessAnalysis #Benutzerschulung #ChangeManagement #Prozessverbesserung #VerantwortungsvolleKI","https://www.linkedin.com/feed/update/urn:li:activity:7505634283320131584/","change-management","False"
-"7505634281650601984","fr","2026-09-15T12:00:00Z","La formation des utilisateurs peut révéler ce qu'un document d'exigences n'a pas identifié.","FRANÇAIS
+#BusinessAnalysis #Benutzerschulung #ChangeManagement #Prozessverbesserung #VerantwortungsvolleKI","https://www.linkedin.com/feed/update/urn:li:activity:7505634283320131584/","data-management","False"
+"7505634281650601984","fr","2026-01-01T12:00:00Z","La formation des utilisateurs peut révéler ce qu'un document d'exigences n'a pas identifié.","FRANÇAIS
 
 La formation des utilisateurs peut révéler ce qu'un document d'exigences n'a pas identifié.
 
@@ -2134,8 +2222,8 @@ Dans le cadre de ma formation en IA, je souhaite explorer l'organisation des ret
 
 Qu'est-ce que la formation des utilisateurs vous a permis de découvrir sur un processus ou un système ?
 
-#BusinessAnalysis #FormationUtilisateurs #GestionDuChangement #AméliorationDesProcessus #IAResponsable","https://www.linkedin.com/feed/update/urn:li:activity:7505634281650601984/","change-management","False"
-"7505634279058718720","en","2026-09-15T12:00:00Z","User training can reveal what a requirements document missed.","ENGLISH
+#BusinessAnalysis #FormationUtilisateurs #GestionDuChangement #AméliorationDesProcessus #IAResponsable","https://www.linkedin.com/feed/update/urn:li:activity:7505634281650601984/","ai-enablement","False"
+"7505634279058718720","en","2026-01-01T12:00:00Z","User training can reveal what a requirements document missed.","ENGLISH
 
 User training can reveal what a requirements document missed.
 
@@ -2156,8 +2244,8 @@ As part of my AI learning, I want to explore organizing user feedback and drafti
 
 What has user training helped you discover about a process or system?
 
-#BusinessAnalysis #UserTraining #ChangeManagement #ProcessImprovement #ResponsibleAI","https://www.linkedin.com/feed/update/urn:li:activity:7505634279058718720/","change-management","False"
-"7505274474007744512","de","2026-09-14T12:00:00Z","Eine Geschäftsanwendung bleibt nicht allein deshalb wertvoll, weil sie erfolgreich eingeführt wurde.","DEUTSCH
+#BusinessAnalysis #UserTraining #ChangeManagement #ProcessImprovement #ResponsibleAI","https://www.linkedin.com/feed/update/urn:li:activity:7505634279058718720/","data-management","False"
+"7505274474007744512","de","2026-01-01T12:00:00Z","Eine Geschäftsanwendung bleibt nicht allein deshalb wertvoll, weil sie erfolgreich eingeführt wurde.","DEUTSCH
 
 Eine Geschäftsanwendung bleibt nicht allein deshalb wertvoll, weil sie erfolgreich eingeführt wurde.
 
@@ -2191,8 +2279,8 @@ Welcher Aspekt der Plattform-Governance wird am häufigsten unterschätzt: Veran
 #BusinessAnalysis
 #DigitaleTransformation
 #Anwendungsmanagement
-#VerantwortungsvolleKI","https://www.linkedin.com/feed/update/urn:li:activity:7505274474007744512/","digital-transformation","False"
-"7505274280486649857","fr","2026-09-14T12:00:00Z","Une application métier ne conserve pas sa valeur simplement parce que son lancement a été réussi.","FRANÇAIS
+#VerantwortungsvolleKI","https://www.linkedin.com/feed/update/urn:li:activity:7505274474007744512/","ai-enablement","False"
+"7505274280486649857","fr","2026-01-01T12:00:00Z","Une application métier ne conserve pas sa valeur simplement parce que son lancement a été réussi.","FRANÇAIS
 
 Une application métier ne conserve pas sa valeur simplement parce que son lancement a été réussi.
 
@@ -2226,8 +2314,8 @@ Quel aspect de la gouvernance des plateformes est le plus souvent sous-estimé: 
 #BusinessAnalysis
 #TransformationDigitale
 #GestionApplicative
-#IAResponsable","https://www.linkedin.com/feed/update/urn:li:activity:7505274280486649857/","digital-transformation","False"
-"7505273760015503360","en","2026-09-14T12:00:00Z","A business application does not remain valuable simply because it was successfully launched.","ENGLISH
+#IAResponsable","https://www.linkedin.com/feed/update/urn:li:activity:7505274280486649857/","ai-enablement","False"
+"7505273760015503360","en","2026-01-01T12:00:00Z","A business application does not remain valuable simply because it was successfully launched.","ENGLISH
 
 A business application does not remain valuable simply because it was successfully launched.
 
@@ -2261,8 +2349,8 @@ Which aspect of platform governance is most often underestimated: ownership, acc
 #BusinessAnalysis
 #DigitalTransformation
 #ApplicationManagement
-#ResponsibleAI","https://www.linkedin.com/feed/update/urn:li:activity:7505273760015503360/","digital-transformation","False"
-"7504869846837293057","de","2026-09-13T12:00:00Z","Wirksame Automatisierung bedeutet nicht nur, eine schnellere Lösung zu entwickeln.","DEUTSCH
+#ResponsibleAI","https://www.linkedin.com/feed/update/urn:li:activity:7505273760015503360/","ai-enablement","False"
+"7504869846837293057","de","2026-01-01T12:00:00Z","Wirksame Automatisierung bedeutet nicht nur, eine schnellere Lösung zu entwickeln.","DEUTSCH
 
 Wirksame Automatisierung bedeutet nicht nur, eine schnellere Lösung zu entwickeln.
 
@@ -2303,8 +2391,8 @@ Welcher Faktor ist bei der Automatisierung eines regulierten Prozesses am wichti
 #BusinessAnalysis
 #Datenqualität
 #DigitaleTransformation
-#Qualitätssicherung","https://www.linkedin.com/feed/update/urn:li:activity:7504869846837293057/","business-analysis","False"
-"7504869769930756097","fr","2026-09-13T12:00:00Z","Une automatisation efficace ne consiste pas uniquement à créer une solution plus rapide.","FRANÇAIS
+#Qualitätssicherung","https://www.linkedin.com/feed/update/urn:li:activity:7504869846837293057/","project-management","False"
+"7504869769930756097","fr","2026-01-01T12:00:00Z","Une automatisation efficace ne consiste pas uniquement à créer une solution plus rapide.","FRANÇAIS
 
 Une automatisation efficace ne consiste pas uniquement à créer une solution plus rapide.
 
@@ -2345,8 +2433,8 @@ Lors de l'automatisation d'un processus réglementé, quel facteur est le plus i
 #BusinessAnalysis
 #QualitéDesDonnées
 #TransformationNumérique
-#AssuranceQualité","https://www.linkedin.com/feed/update/urn:li:activity:7504869769930756097/","business-analysis","False"
-"7504869375137701888","en","2026-09-13T12:00:00Z","Effective automation is not only about creating a faster solution.","ENGLISH
+#AssuranceQualité","https://www.linkedin.com/feed/update/urn:li:activity:7504869769930756097/","project-management","False"
+"7504869375137701888","en","2026-01-01T12:00:00Z","Effective automation is not only about creating a faster solution.","ENGLISH
 
 Effective automation is not only about creating a faster solution.
 
@@ -2387,8 +2475,8 @@ When automating a regulated process, which factor is most important: speed, vali
 #BusinessAnalysis
 #DataQuality
 #DigitalTransformation
-#QualityAssurance","https://www.linkedin.com/feed/update/urn:li:activity:7504869375137701888/","business-analysis","False"
-"7504480528759422976","de","2026-09-12T12:00:00Z","KI kann Informationen effizient verarbeiten, aber kein fundiertes Gespräch mit Stakeholdern ersetzen.","DEUTSCH
+#QualityAssurance","https://www.linkedin.com/feed/update/urn:li:activity:7504869375137701888/","project-management","False"
+"7504480528759422976","de","2026-01-01T12:00:00Z","KI kann Informationen effizient verarbeiten, aber kein fundiertes Gespräch mit Stakeholdern ersetzen.","DEUTSCH
 
 KI kann Informationen effizient verarbeiten, aber kein fundiertes Gespräch mit Stakeholdern ersetzen.
 
@@ -2428,7 +2516,7 @@ Welcher Bereich der Business Analysis sollte Ihrer Meinung nach immer unter mens
 #Anforderungsanalyse
 #StakeholderManagement
 #KIEinführung","https://www.linkedin.com/feed/update/urn:li:activity:7504480528759422976/","ai-enablement","False"
-"7504480435985641472","fr","2026-09-12T12:00:00Z","L'IA peut faciliter le traitement de l'information, mais elle ne peut pas remplacer un échange constructif avec les parties prenantes.","FRANÇAIS
+"7504480435985641472","fr","2026-01-01T12:00:00Z","L'IA peut faciliter le traitement de l'information, mais elle ne peut pas remplacer un échange constructif avec les parties prenantes.","FRANÇAIS
 
 L'IA peut faciliter le traitement de l'information, mais elle ne peut pas remplacer un échange constructif avec les parties prenantes.
 
@@ -2468,7 +2556,7 @@ Quelle partie de la Business Analysis devrait, selon vous, toujours rester sous 
 #AnalyseDesExigences
 #GestionDesPartiesPrenantes
 #AdoptionDeLIA","https://www.linkedin.com/feed/update/urn:li:activity:7504480435985641472/","ai-enablement","False"
-"7504480084037156865","en","2026-09-12T12:00:00Z","AI can help process information, but it cannot replace a meaningful conversation with stakeholders.","ENGLISH
+"7504480084037156865","en","2026-01-01T12:00:00Z","AI can help process information, but it cannot replace a meaningful conversation with stakeholders.","ENGLISH
 
 AI can help process information, but it cannot replace a meaningful conversation with stakeholders.
 
@@ -2508,7 +2596,7 @@ Which part of Business Analysis should always remain human-led?
 #RequirementsAnalysis
 #StakeholderManagement
 #AIEnablement","https://www.linkedin.com/feed/update/urn:li:activity:7504480084037156865/","ai-enablement","False"
-"7504151526517665792","de","2026-09-11T12:00:00Z","KI kann Daten schnell analysieren. Geschwindigkeit macht unzuverlässige Daten jedoch nicht vertrauenswürdig.","DEUTSCH
+"7504151526517665792","de","2026-01-01T12:00:00Z","KI kann Daten schnell analysieren. Geschwindigkeit macht unzuverlässige Daten jedoch nicht vertrauenswürdig.","DEUTSCH
 
 KI kann Daten schnell analysieren. Geschwindigkeit macht unzuverlässige Daten jedoch nicht vertrauenswürdig.
 
@@ -2546,8 +2634,8 @@ Welche Herausforderung im Bereich der Datenqualität sollten Organisationen bew�
 #Datenqualität
 #KünstlicheIntelligenz
 #BusinessAnalysis
-#DatenGovernance","https://www.linkedin.com/feed/update/urn:li:activity:7504151526517665792/","data-management","False"
-"7504151419709632512","fr","2026-09-11T12:00:00Z","L'IA peut analyser rapidement les données, mais la vitesse ne rend pas fiables des données qui ne le sont pas.","FRANÇAIS
+#DatenGovernance","https://www.linkedin.com/feed/update/urn:li:activity:7504151526517665792/","ai-enablement","False"
+"7504151419709632512","fr","2026-01-01T12:00:00Z","L'IA peut analyser rapidement les données, mais la vitesse ne rend pas fiables des données qui ne le sont pas.","FRANÇAIS
 
 L'IA peut analyser rapidement les données, mais la vitesse ne rend pas fiables des données qui ne le sont pas.
 
@@ -2585,8 +2673,8 @@ Quel défi lié à la qualité des données les organisations devraient-elles r�
 #QualitéDesDonnées
 #IntelligenceArtificielle
 #BusinessAnalysis
-#GouvernanceDesDonnées","https://www.linkedin.com/feed/update/urn:li:activity:7504151419709632512/","data-management","False"
-"7504151298234171392","en","2026-09-11T12:00:00Z","AI can analyze data quickly, but speed does not make unreliable data trustworthy.","ENGLISH
+#GouvernanceDesDonnées","https://www.linkedin.com/feed/update/urn:li:activity:7504151419709632512/","ai-enablement","False"
+"7504151298234171392","en","2026-01-01T12:00:00Z","AI can analyze data quickly, but speed does not make unreliable data trustworthy.","ENGLISH
 
 AI can analyze data quickly, but speed does not make unreliable data trustworthy.
 
@@ -2624,8 +2712,8 @@ Which data-quality challenge should organizations address before expanding their
 #DataQuality
 #ArtificialIntelligence
 #BusinessAnalysis
-#DataGovernance","https://www.linkedin.com/feed/update/urn:li:activity:7504151298234171392/","data-management","False"
-"7503793329332047872","de","2026-09-10T12:00:00Z","KI zu einem ineffizienten Prozess hinzuzufügen, führt nicht automatisch zu digitaler Transformation.","DEUTSCH
+#DataGovernance","https://www.linkedin.com/feed/update/urn:li:activity:7504151298234171392/","ai-enablement","False"
+"7503793329332047872","de","2026-01-01T12:00:00Z","KI zu einem ineffizienten Prozess hinzuzufügen, führt nicht automatisch zu digitaler Transformation.","DEUTSCH
 
 KI zu einem ineffizienten Prozess hinzuzufügen, führt nicht automatisch zu digitaler Transformation.
 
@@ -2659,8 +2747,8 @@ Was sollte bei einer Transformation mit KI zuerst betrachtet werden: die Technol
 #KünstlicheIntelligenz
 #BusinessAnalysis
 #Prozessoptimierung
-#KIEinführung","https://www.linkedin.com/feed/update/urn:li:activity:7503793329332047872/","digital-transformation","False"
-"7503793247719424000","fr","2026-09-10T12:00:00Z","Ajouter de l'IA à un processus inefficace ne constitue pas automatiquement une transformation numérique.","FRANÇAIS
+#KIEinführung","https://www.linkedin.com/feed/update/urn:li:activity:7503793329332047872/","ai-enablement","False"
+"7503793247719424000","fr","2026-01-01T12:00:00Z","Ajouter de l'IA à un processus inefficace ne constitue pas automatiquement une transformation numérique.","FRANÇAIS
 
 Ajouter de l'IA à un processus inefficace ne constitue pas automatiquement une transformation numérique.
 
@@ -2694,8 +2782,8 @@ Dans une initiative de transformation par l'IA, que faut-il considérer en premi
 #IntelligenceArtificielle
 #BusinessAnalysis
 #AméliorationDesProcessus
-#AdoptionDeLIA","https://www.linkedin.com/feed/update/urn:li:activity:7503793247719424000/","digital-transformation","False"
-"7503792135830335488","en","2026-09-10T12:00:00Z","Adding AI to a weak process does not automatically create digital transformation.","ENGLISH
+#AdoptionDeLIA","https://www.linkedin.com/feed/update/urn:li:activity:7503793247719424000/","ai-enablement","False"
+"7503792135830335488","en","2026-01-01T12:00:00Z","Adding AI to a weak process does not automatically create digital transformation.","ENGLISH
 
 Adding AI to a weak process does not automatically create digital transformation.
 
@@ -2729,8 +2817,8 @@ What should come first in an AI transformation initiative: the technology or the
 #ArtificialIntelligence
 #BusinessAnalysis
 #ProcessImprovement
-#AIEnablement","https://www.linkedin.com/feed/update/urn:li:activity:7503792135830335488/","digital-transformation","False"
-"7503488109569892354","de","2026-09-09T12:00:00Z","Wenn eine Anwendung ausfällt, brauchen die Benutzer klare Antworten: Wer ist betroffen? Was passiert als Nächstes? Wann erhalten wir neue Informationen?","DEUTSCH
+#AIEnablement","https://www.linkedin.com/feed/update/urn:li:activity:7503792135830335488/","ai-enablement","False"
+"7503488109569892354","de","2026-01-01T12:00:00Z","Wenn eine Anwendung ausfällt, brauchen die Benutzer klare Antworten: Wer ist betroffen? Was passiert als Nächstes? Wann erhalten wir neue Informationen?","DEUTSCH
 
 Wenn eine Anwendung ausfällt, brauchen die Benutzer klare Antworten: Wer ist betroffen? Was passiert als Nächstes? Wann erhalten wir neue Informationen?
 
@@ -2768,8 +2856,8 @@ Wo könnte KI in Ihrem Störungsmanagement den größten Mehrwert schaffen: bei 
 #KünstlicheIntelligenz
 #BusinessAnalysis
 #ITServicemanagement
-#KontinuierlicheVerbesserung","https://www.linkedin.com/feed/update/urn:li:activity:7503488109569892354/","incident-management","False"
-"7503487927537102848","fr","2026-09-09T12:00:00Z","Lorsqu’une application cesse de fonctionner, les utilisateurs ont besoin de réponses claires : Qui est concerné ? Quelle est la prochaine étape ? Quand recevrons-nous de nouvelles informations ?","FRANÇAIS
+#KontinuierlicheVerbesserung","https://www.linkedin.com/feed/update/urn:li:activity:7503488109569892354/","ai-enablement","False"
+"7503487927537102848","fr","2026-01-01T12:00:00Z","Lorsqu’une application cesse de fonctionner, les utilisateurs ont besoin de réponses claires : Qui est concerné ? Quelle est la prochaine étape ? Quand recevrons-nous de nouvelles informations ?","FRANÇAIS
 
 Lorsqu’une application cesse de fonctionner, les utilisateurs ont besoin de réponses claires : Qui est concerné ? Quelle est la prochaine étape ? Quand recevrons-nous de nouvelles informations ?
 
@@ -2807,8 +2895,8 @@ Rétablir le service est la priorité immédiate. Comprendre les problèmes réc
 #IntelligenceArtificielle
 #BusinessAnalysis
 #GestionDesServicesInformatiques
-#AméliorationContinue","https://www.linkedin.com/feed/update/urn:li:activity:7503487927537102848/","incident-management","False"
-"7503487761744662529","en","2026-09-09T12:00:00Z","When an application stops working, users need clear answers: Who is affected? What happens next? When will we receive an update?","ENGLISH
+#AméliorationContinue","https://www.linkedin.com/feed/update/urn:li:activity:7503487927537102848/","ai-enablement","False"
+"7503487761744662529","en","2026-01-01T12:00:00Z","When an application stops working, users need clear answers: Who is affected? What happens next? When will we receive an update?","ENGLISH
 
 When an application stops working, users need clear answers: Who is affected? What happens next? When will we receive an update?
 
@@ -2846,8 +2934,8 @@ Where would AI add the most value in your incident process: initial assessment, 
 #ArtificialIntelligence
 #BusinessAnalysis
 #ITServiceManagement
-#ContinuousImprovement","https://www.linkedin.com/feed/update/urn:li:activity:7503487761744662529/","incident-management","False"
-"7503070525292777473","de","2026-09-08T12:00:00Z","KI kann die Systemanalyse unterstützen. Erfolgreiche Lösungen hängen jedoch weiterhin davon ab, dass die tatsächlichen Geschäftsanforderungen verstanden werden.","DEUTSCH
+#ContinuousImprovement","https://www.linkedin.com/feed/update/urn:li:activity:7503487761744662529/","ai-enablement","False"
+"7503070525292777473","de","2026-01-01T12:00:00Z","KI kann die Systemanalyse unterstützen. Erfolgreiche Lösungen hängen jedoch weiterhin davon ab, dass die tatsächlichen Geschäftsanforderungen verstanden werden.","DEUTSCH
 KI kann die Systemanalyse unterstützen. Erfolgreiche Lösungen hängen jedoch weiterhin davon ab, dass die tatsächlichen Geschäftsanforderungen verstanden werden.
 Im Laufe meiner Erfahrung in der Business Analysis habe ich an der Schnittstelle zwischen Benutzern, operativen Teams, Product Ownern und IT-Spezialisten gearbeitet, um sicherzustellen, dass Anwendungen praktische Arbeitsabläufe unterstützen.
 KI kann diese Arbeit unterstützen durch:
@@ -2873,7 +2961,7 @@ Wo kann KI Ihrer Meinung nach den größten Mehrwert in der Systemanalyse oder b
 #UAT
 #KünstlicheIntelligenz
 #DigitaleTransformation","https://www.linkedin.com/feed/update/urn:li:activity:7503070525292777473/","business-analysis","False"
-"7503070383483375616","fr","2026-09-08T12:00:00Z","L'IA peut soutenir l'analyse des systèmes, mais la réussite d'une solution dépend toujours de la compréhension des véritables besoins métier.","FRANÇAIS
+"7503070383483375616","fr","2026-01-01T12:00:00Z","L'IA peut soutenir l'analyse des systèmes, mais la réussite d'une solution dépend toujours de la compréhension des véritables besoins métier.","FRANÇAIS
 L'IA peut soutenir l'analyse des systèmes, mais la réussite d'une solution dépend toujours de la compréhension des véritables besoins métier.
 Au cours de mon expérience en Business Analysis, j'ai travaillé à l'interface entre les utilisateurs, les équipes opérationnelles, les Product Owners et les spécialistes informatiques afin de garantir que les applications répondent aux besoins concrets.
 L'IA peut faciliter ce travail en permettant de :
@@ -2898,8 +2986,8 @@ Selon vous, à quelle étape de l'analyse des systèmes ou des tests d'acceptati
 #BusinessAnalysis
 #TestsUtilisateurs
 #IntelligenceArtificielle
-#TransformationNumérique","https://www.linkedin.com/feed/update/urn:li:activity:7503070383483375616/","business-analysis","False"
-"7503069848776728576","en","2026-09-08T12:00:00Z","AI can support Systems Analysis, but successful solutions still depend on understanding real business needs.","ENGLISH
+#TransformationNumérique","https://www.linkedin.com/feed/update/urn:li:activity:7503070383483375616/","ai-enablement","False"
+"7503069848776728576","en","2026-01-01T12:00:00Z","AI can support Systems Analysis, but successful solutions still depend on understanding real business needs.","ENGLISH
 AI can support Systems Analysis, but successful solutions still depend on understanding real business needs.
 Throughout my Business Analysis experience, I have worked between users, operational teams, Product Owners and technology specialists to help ensure that applications support practical workflows.
 AI can assist this work by:
@@ -2924,8 +3012,8 @@ Where do you think AI can add the most value during Systems Analysis or UAT?
 #BusinessAnalysis
 #UAT
 #ArtificialIntelligence
-#DigitalTransformation","https://www.linkedin.com/feed/update/urn:li:activity:7503069848776728576/","business-analysis","False"
-"7502780649552904192","de","2026-09-07T12:00:00Z","KI kann das Datenmanagement beschleunigen, aber sie kann weder Datenverantwortung noch Qualitätskontrollen oder professionelles Urteilsvermögen ersetzen.","DEUTSCH
+#DigitalTransformation","https://www.linkedin.com/feed/update/urn:li:activity:7503069848776728576/","ai-enablement","False"
+"7502780649552904192","de","2026-01-01T12:00:00Z","KI kann das Datenmanagement beschleunigen, aber sie kann weder Datenverantwortung noch Qualitätskontrollen oder professionelles Urteilsvermögen ersetzen.","DEUTSCH
 KI kann das Datenmanagement beschleunigen, aber sie kann weder Datenverantwortung noch Qualitätskontrollen oder professionelles Urteilsvermögen ersetzen.
 Meine Erfahrung in klinischen Datenumgebungen hat mir gezeigt, dass zuverlässige Daten von folgenden Faktoren abhängen:
 - Klare Geschäftsregeln
@@ -2952,8 +3040,8 @@ Wo kann KI Ihrer Meinung nach den größten Mehrwert im Datenmanagement schaffen
 #BusinessAnalysis
 #KünstlicheIntelligenz
 #Datenqualität
-#DigitaleTransformation","https://www.linkedin.com/feed/update/urn:li:activity:7502780649552904192/","data-management","False"
-"7502780526198542336","fr","2026-09-07T12:00:00Z","L'IA peut accélérer la gestion des données, mais elle ne peut pas remplacer la responsabilité des données, les contrôles qualité ou le jugement professionnel.","FRANÇAIS
+#DigitaleTransformation","https://www.linkedin.com/feed/update/urn:li:activity:7502780649552904192/","ai-enablement","False"
+"7502780526198542336","fr","2026-01-01T12:00:00Z","L'IA peut accélérer la gestion des données, mais elle ne peut pas remplacer la responsabilité des données, les contrôles qualité ou le jugement professionnel.","FRANÇAIS
 L'IA peut accélérer la gestion des données, mais elle ne peut pas remplacer la responsabilité des données, les contrôles qualité ou le jugement professionnel.
 Mon expérience dans des environnements de données cliniques m'a appris que la fiabilité des données repose sur:
 - Des règles métier claires
@@ -2980,8 +3068,8 @@ Selon vous, dans quel domaine l'IA peut-elle créer le plus de valeur pour la ge
 #BusinessAnalysis
 #IntelligenceArtificielle
 #QualitéDesDonnées
-#TransformationNumérique","https://www.linkedin.com/feed/update/urn:li:activity:7502780526198542336/","data-management","False"
-"7502780105966960640","en","2026-09-07T12:00:00Z","AI can accelerate Data Management, but it cannot replace data ownership, quality controls or professional judgment.","ENGLISH
+#TransformationNumérique","https://www.linkedin.com/feed/update/urn:li:activity:7502780526198542336/","ai-enablement","False"
+"7502780105966960640","en","2026-01-01T12:00:00Z","AI can accelerate Data Management, but it cannot replace data ownership, quality controls or professional judgment.","ENGLISH
 AI can accelerate Data Management, but it cannot replace data ownership, quality controls or professional judgment.
 My experience in clinical-data environments taught me that reliable data depends on:
 - Clear business rules
@@ -3008,53 +3096,53 @@ Where do you believe AI can create the greatest value in Data Management?
 #BusinessAnalysis
 #ArtificialIntelligence
 #DataQuality
-#DigitalTransformation","https://www.linkedin.com/feed/update/urn:li:activity:7502780105966960640/","data-management","False"
-"7501089635339722753","de","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_businessanalysis-kieinfaeshrung-digitaletransformation-activity-7501089635339722753-3jqH","business-analysis","False"
-"7501089591177928704","fr","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_businessanalysis-adoptionia-transformationdigitale-activity-7501089591177928704-a1e7","business-analysis","False"
-"7501089072501903360","en","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_businessanalysis-aienablement-digitaltransformation-activity-7501089072501903360--JeD","business-analysis","False"
-"7500930778214703104","de","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_businessanalysis-benutzerakzeptanz-changemanagement-activity-7500930778214703104-7UPz","business-analysis","False"
-"7500930746275057665","fr","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_businessanalysis-adoptionutilisateurs-gestionduchangement-activity-7500930746275057665-rXz2","business-analysis","False"
-"7500930690667065345","en","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_businessanalysis-useradoption-changemanagement-activity-7500930690667065345-7zRc","business-analysis","False"
-"7500487074328829952","de","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_digitaletransformation-businessanalysis-prozessverbesserung-activity-7500487074328829952-wyun","business-analysis","False"
-"7500486963402072064","fr","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_transformationdigitale-businessanalysis-amaezliorationdesprocessus-activity-7500486963402072064--KwQ","business-analysis","False"
-"7500486868166254592","en","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_digitaltransformation-businessanalysis-processimprovement-activity-7500486868166254592-Q091","business-analysis","False"
-"7500470252829380608","de","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_projektmanagement-businessanalysis-stakeholdermanagement-activity-7500470252829380608-M4KT","business-analysis","False"
-"7500468625544486912","de","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_datenmanagement-datenqualitaeut-automatisierung-activity-7500468625544486912-01h2","business-analysis","False"
-"7500468212078125056","de","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_businessanalysis-systemanalyse-projektmanagement-activity-7500468212078125056-z0DN","business-analysis","False"
-"7500467873811742720","de","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_verantwortungsvolleki-kisicherheit-businessanalysis-activity-7500467873811742720-E0qE","business-analysis","False"
-"7500467621696299008","de","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_projektmanagement-businessanalysis-automatisierung-activity-7500467621696299008-rgko","business-analysis","False"
-"7500467020052860928","de","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_systemanalyse-businessanalysis-benutzerakzeptanztests-activity-7500467020052860928-hJIl","business-analysis","False"
-"7500159998568685568","fr","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_gestiondeprojet-businessanalysis-automatisation-activity-7500159998568685568-V3sl","business-analysis","False"
-"7500159309927047169","en","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_projectmanagement-businessanalysis-automation-activity-7500159309927047169-tD1L","business-analysis","False"
-"7499885427626168321","fr","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_businessanalysis-analysedessystaeymes-gestiondeprojet-activity-7499885427626168321-XRK1","business-analysis","False"
-"7499884645061214208","fr","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_gestiondeprojet-businessanalysis-gestiondespartiesprenantes-activity-7499884645061214208-j4v9","business-analysis","False"
-"7499884370820788224","fr","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_gestiondesdonnaezes-automatisationdesprocessus-activity-7499884370820788224-sUYa","business-analysis","False"
-"7499627214045380608","en","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_datamanagement-processautomation-businessanalysis-activity-7499627214045380608-QoMg","business-analysis","False"
-"7499419200893947904","en","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_businessanalysis-systemsanalysis-projectmanagement-activity-7499419200893947904-Rs9J","business-analysis","False"
-"7499116990603763712","en","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_businessanalysis-datamanagement-projectmanagement-activity-7499116990603763712-l7DG","business-analysis","False"
-"7472270904371183617","en","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_opentowork-activity-7472270904371183617-mR-z","business-analysis","False"
-"7470794453922856961","en","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_ai-enhanced-business-analyst-portfolio-activity-7470794453922856961-dX3v","business-analysis","False"
-"7468474820188467200","en","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_use-of-ai-in-business-analyses-pm-dm-activity-7468474820188467200-kLM_","business-analysis","False"
-"7466916112094568448","en","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_presentation-ai-shifts-may-2026-activity-7466916112094568448-Do3y","business-analysis","False"
-"7466896968854716417","en","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_pettichat-activity-7466896968854716417-oc3Z","business-analysis","False"
-"7465932713603018752","en","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_%F0%9D%90%86%F0%9D%90%A8%F0%9D%90%A8%F0%9D%90%A0%F0%9D%90%A5%F0%9D%90%9E-%F0%9D%90%A3%F0%9D%90%AE%F0%9D%90%AC%F0%9D%90%AD-%F0%9D%90%A4%F0%9D%90%A2%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%9D-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-activity-7465932713603018752-Ec2o","business-analysis","False"
-"7421875939032072192","en","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_opentowork-activity-7421875939032072192-kNh9","business-analysis","False"
-"7229117477610262528","en","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_certificate-of-completion-activity-7229117477610262528-3aKu","business-analysis","False"
-"7229117335108820992","en","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_certificate-of-completion-activity-7229117335108820992-SI-g","business-analysis","False"
-"7229106489443930112","en","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_linkedinlearning-activity-7229106489443930112-Ji_t","business-analysis","False"
-"7229106309298548736","en","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_certificate-of-completion-activity-7229106309298548736-9vnO","business-analysis","False"
-"7229106120923967489","en","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_certificate-of-completion-activity-7229106120923967489-k_VQ","business-analysis","False"
-"7229105198915289088","en","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_certificate-of-completion-activity-7229105198915289088-G15c","business-analysis","False"
-"7229100711639150592","en","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_linkedinlearning-activity-7229100711639150592-IhBL","business-analysis","False"
-"7229080946627493889","en","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_linkedinlearning-activity-7229080946627493889-Lumw","business-analysis","False"
-"7229056767874224128","en","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_linkedinlearning-activity-7229056767874224128-Ty44","business-analysis","False"
-"7228833679924445188","en","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_check-this-out-on-linkedin-learning-i-have-activity-7228833679924445188-E7zt","business-analysis","False"
-"7228833647083024385","en","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_generativeaitools-generativeai-artificialintelligence-activity-7228833647083024385-YP7r","business-analysis","False"
-"7228833595543416833","en","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_certificate-of-completion-activity-7228833595543416833-8-os","business-analysis","False"
-"7028671180081385472","en","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_check-out-this-course-on-linkedin-learning-activity-7028671180081385472-26WA","business-analysis","False"
-"7005511003186556929","en","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_im-happy-to-share-that-im-starting-a-new-activity-7005511003186556929-SVGA","business-analysis","False"
-"6956394140750245888","en","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_opentowork-opportunities-activity-6956394140750245888-C1YJ","business-analysis","False"
-"6942882529502789632","en","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_cheatsheets-activity-6942882529502789632-uU0b","business-analysis","False"
-"6931386712501706752","en","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_opentowork-activity-6931386712501706752-vYNP","business-analysis","False"
-"6930525215017861120","en","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_opentowork-activity-6930525215017861120-p2ZR","business-analysis","False"
-"6900283725142126592","en","2020-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_opentowork-activity-6900283725142126592-R-lG","business-analysis","False"
+#DigitalTransformation","https://www.linkedin.com/feed/update/urn:li:activity:7502780105966960640/","ai-enablement","False"
+"7501089635339722753","de","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_businessanalysis-kieinfaeshrung-digitaletransformation-activity-7501089635339722753-3jqH","business-analysis","False"
+"7501089591177928704","fr","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_businessanalysis-adoptionia-transformationdigitale-activity-7501089591177928704-a1e7","business-analysis","False"
+"7501089072501903360","en","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_businessanalysis-aienablement-digitaltransformation-activity-7501089072501903360--JeD","business-analysis","False"
+"7500930778214703104","de","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_businessanalysis-benutzerakzeptanz-changemanagement-activity-7500930778214703104-7UPz","business-analysis","False"
+"7500930746275057665","fr","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_businessanalysis-adoptionutilisateurs-gestionduchangement-activity-7500930746275057665-rXz2","business-analysis","False"
+"7500930690667065345","en","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_businessanalysis-useradoption-changemanagement-activity-7500930690667065345-7zRc","business-analysis","False"
+"7500487074328829952","de","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_digitaletransformation-businessanalysis-prozessverbesserung-activity-7500487074328829952-wyun","business-analysis","False"
+"7500486963402072064","fr","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_transformationdigitale-businessanalysis-amaezliorationdesprocessus-activity-7500486963402072064--KwQ","business-analysis","False"
+"7500486868166254592","en","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_digitaltransformation-businessanalysis-processimprovement-activity-7500486868166254592-Q091","business-analysis","False"
+"7500470252829380608","de","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_projektmanagement-businessanalysis-stakeholdermanagement-activity-7500470252829380608-M4KT","business-analysis","False"
+"7500468625544486912","de","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_datenmanagement-datenqualitaeut-automatisierung-activity-7500468625544486912-01h2","business-analysis","False"
+"7500468212078125056","de","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_businessanalysis-systemanalyse-projektmanagement-activity-7500468212078125056-z0DN","business-analysis","False"
+"7500467873811742720","de","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_verantwortungsvolleki-kisicherheit-businessanalysis-activity-7500467873811742720-E0qE","business-analysis","False"
+"7500467621696299008","de","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_projektmanagement-businessanalysis-automatisierung-activity-7500467621696299008-rgko","business-analysis","False"
+"7500467020052860928","de","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_systemanalyse-businessanalysis-benutzerakzeptanztests-activity-7500467020052860928-hJIl","business-analysis","False"
+"7500159998568685568","fr","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_gestiondeprojet-businessanalysis-automatisation-activity-7500159998568685568-V3sl","business-analysis","False"
+"7500159309927047169","en","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_projectmanagement-businessanalysis-automation-activity-7500159309927047169-tD1L","business-analysis","False"
+"7499885427626168321","fr","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_businessanalysis-analysedessystaeymes-gestiondeprojet-activity-7499885427626168321-XRK1","business-analysis","False"
+"7499884645061214208","fr","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_gestiondeprojet-businessanalysis-gestiondespartiesprenantes-activity-7499884645061214208-j4v9","business-analysis","False"
+"7499884370820788224","fr","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_gestiondesdonnaezes-automatisationdesprocessus-activity-7499884370820788224-sUYa","business-analysis","False"
+"7499627214045380608","en","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_datamanagement-processautomation-businessanalysis-activity-7499627214045380608-QoMg","business-analysis","False"
+"7499419200893947904","en","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_businessanalysis-systemsanalysis-projectmanagement-activity-7499419200893947904-Rs9J","business-analysis","False"
+"7499116990603763712","en","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_businessanalysis-datamanagement-projectmanagement-activity-7499116990603763712-l7DG","business-analysis","False"
+"7472270904371183617","en","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_opentowork-activity-7472270904371183617-mR-z","business-analysis","False"
+"7470794453922856961","en","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_ai-enhanced-business-analyst-portfolio-activity-7470794453922856961-dX3v","business-analysis","False"
+"7468474820188467200","en","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_use-of-ai-in-business-analyses-pm-dm-activity-7468474820188467200-kLM_","business-analysis","False"
+"7466916112094568448","en","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_presentation-ai-shifts-may-2026-activity-7466916112094568448-Do3y","business-analysis","False"
+"7466896968854716417","en","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_pettichat-activity-7466896968854716417-oc3Z","business-analysis","False"
+"7465932713603018752","en","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_%F0%9D%90%86%F0%9D%90%A8%F0%9D%90%A8%F0%9D%90%A0%F0%9D%90%A5%F0%9D%90%9E-%F0%9D%90%A3%F0%9D%90%AE%F0%9D%90%AC%F0%9D%90%AD-%F0%9D%90%A4%F0%9D%90%A2%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%9D-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-activity-7465932713603018752-Ec2o","business-analysis","False"
+"7421875939032072192","en","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_opentowork-activity-7421875939032072192-kNh9","business-analysis","False"
+"7229117477610262528","en","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_certificate-of-completion-activity-7229117477610262528-3aKu","business-analysis","False"
+"7229117335108820992","en","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_certificate-of-completion-activity-7229117335108820992-SI-g","business-analysis","False"
+"7229106489443930112","en","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_linkedinlearning-activity-7229106489443930112-Ji_t","business-analysis","False"
+"7229106309298548736","en","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_certificate-of-completion-activity-7229106309298548736-9vnO","business-analysis","False"
+"7229106120923967489","en","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_certificate-of-completion-activity-7229106120923967489-k_VQ","business-analysis","False"
+"7229105198915289088","en","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_certificate-of-completion-activity-7229105198915289088-G15c","business-analysis","False"
+"7229100711639150592","en","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_linkedinlearning-activity-7229100711639150592-IhBL","business-analysis","False"
+"7229080946627493889","en","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_linkedinlearning-activity-7229080946627493889-Lumw","business-analysis","False"
+"7229056767874224128","en","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_linkedinlearning-activity-7229056767874224128-Ty44","business-analysis","False"
+"7228833679924445188","en","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_check-this-out-on-linkedin-learning-i-have-activity-7228833679924445188-E7zt","business-analysis","False"
+"7228833647083024385","en","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_generativeaitools-generativeai-artificialintelligence-activity-7228833647083024385-YP7r","business-analysis","False"
+"7228833595543416833","en","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_certificate-of-completion-activity-7228833595543416833-8-os","business-analysis","False"
+"7028671180081385472","en","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_check-out-this-course-on-linkedin-learning-activity-7028671180081385472-26WA","business-analysis","False"
+"7005511003186556929","en","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_im-happy-to-share-that-im-starting-a-new-activity-7005511003186556929-SVGA","business-analysis","False"
+"6956394140750245888","en","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_opentowork-opportunities-activity-6956394140750245888-C1YJ","business-analysis","False"
+"6942882529502789632","en","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_cheatsheets-activity-6942882529502789632-uU0b","business-analysis","False"
+"6931386712501706752","en","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_opentowork-activity-6931386712501706752-vYNP","business-analysis","False"
+"6930525215017861120","en","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_opentowork-activity-6930525215017861120-p2ZR","business-analysis","False"
+"6900283725142126592","en","2026-01-01T12:00:00Z","","","https://www.linkedin.com/posts/the-best-fit_opentowork-activity-6900283725142126592-R-lG","business-analysis","False"
